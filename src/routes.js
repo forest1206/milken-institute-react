@@ -1,5 +1,5 @@
-import SearchContent from "./pages/SearchContent";
+import SearchContentPage from "./pages/SearchContentPage";
 
-const routes = [{ path: "/", name: "Home", component: SearchContent }];
+const routes = [{ path: "/", name: "Home", component: SearchContentPage }];
 
 export default routes;

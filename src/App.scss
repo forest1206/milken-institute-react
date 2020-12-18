@@ -1,1 +1,60 @@
 @import "~bootstrap/scss/bootstrap";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+#toolbar {
+  .view-btn {
+    padding: 8px;
+    svg {
+      width: 40px;
+      height: 40px;
+    }
+    &.disabled {
+      svg {
+        fill: gray;
+      }
+    }
+  }
+}
+
+.main-content {
+}
+
+.content-row {
+  .content-image-wrapper {
+    position: relative;
+    img {
+      max-width: 100%;
+    }
+    span {
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      padding: 8px 16px;
+      background: orange;
+    }
+  }
+  .content-text-wrapper {
+  }
+}
+
+.content-card {
+  .content-image-wrapper {
+    position: relative;
+    img {
+      max-width: 100%;
+    }
+    span {
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      padding: 8px 16px;
+      background: orange;
+    }
+  }
+  .content-text-wrapper {
+  }
+}

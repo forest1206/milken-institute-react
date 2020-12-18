@@ -1,13 +1,12 @@
-import PropTypes from "prop-types";
 import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
-import { Switch, Route } from 'react-router-dom';
-import routes from '../routes';
+import { Switch, Route } from "react-router-dom";
+import routes from "../routes";
 
 export default function AppLayout(props) {
   return (
-    <div>
+    <div className="container">
       <Header />
       <Switch>
         {routes.map((route, key) => (
