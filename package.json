@@ -6,8 +6,10 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
+    "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
     "classnames": "^2.2.6",
+    "dotenv": "^8.2.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
@@ -22,7 +24,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "json-server": "json-server --watch .json-server/db.json --routes .json-server/routes.json --port 5000"
   },
   "eslintConfig": {
     "extends": [

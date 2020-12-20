@@ -1,7 +1,6 @@
 import PropTypes from "prop-types";
 import React, { useState } from "react";
 import { Collapse } from "react-bootstrap";
-import classnames from "classnames";
 
 const MAX_LENGTH_LIMIT = 100;
 
@@ -23,10 +22,18 @@ function TextEllipsis({ text }) {
 
   return (
     <>
-      <p>{text.substring(0, MAX_LENGTH_LIMIT - 3)}</p>
+      <div
+        dangerouslySetInnerHTML={{
+          __html: text.substring(0, MAX_LENGTH_LIMIT - 3),
+        }}
+      ></div>
       <Collapse in={showmore}>
         <div id="text-collapse">
-          <p>{text.substring(MAX_LENGTH_LIMIT - 3, text.length)}</p>
+          <div
+            dangerouslySetInnerHTML={{
+              __html: text.substring(MAX_LENGTH_LIMIT - 3, text.length),
+            }}
+          ></div>
         </div>
       </Collapse>
 
@@ -36,7 +43,6 @@ function TextEllipsis({ text }) {
 }
 
 function ContentCard({ id, image, type, title, text }) {
-
   return (
     <div className="content-card card d-flex flex-column">
       <div className="card-body">
@@ -49,7 +55,7 @@ function ContentCard({ id, image, type, title, text }) {
           {text && text.length > MAX_LENGTH_LIMIT ? (
             <TextEllipsis text={text} />
           ) : (
-            <p>{text}</p>
+            <div dangerouslySetInnerHTML={{ __html: text }}></div>
           )}
         </div>
       </div>

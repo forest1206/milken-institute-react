@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Collapse } from "react-bootstrap";
-// import FilterWrapper from "./FilterWrapper";
-import FilterDropdown from "./FilterDropdown";
+import FilterMultiSelect from "./FilterMultiSelect";
+import FilterDateSelect from "./FilterDateSelect";
 
 export default function FilterContainer(props) {
   const [open, setOpen] = useState(false);
@@ -23,13 +23,12 @@ export default function FilterContainer(props) {
     onDateRangeChange,
   } = props;
 
-  console.log("FilterContainer", types, centers);
   function renderFilters() {
     return (
       <div>
         <div className="row my-4">
           <div className=" col-sm-6 col-lg-3">
-            <FilterDropdown
+            <FilterMultiSelect
               value={types}
               title={"CONTENT TYPES"}
               options={typeOptions}
@@ -37,7 +36,7 @@ export default function FilterContainer(props) {
             />
           </div>
           <div className=" col-sm-6 col-lg-3">
-            <FilterDropdown
+            <FilterMultiSelect
               value={centers}
               title={"CENTERS AND PROGRAMS"}
               options={centerOptions}
@@ -45,7 +44,7 @@ export default function FilterContainer(props) {
             />
           </div>
           <div className=" col-sm-6 col-lg-3">
-            <FilterDropdown
+            <FilterMultiSelect
               value={topics}
               title={"Topics"}
               options={topicOptions}
@@ -53,7 +52,7 @@ export default function FilterContainer(props) {
             />
           </div>
           <div className=" col-sm-6 col-lg-3">
-            <FilterDropdown
+            <FilterDateSelect
               isDateSelect
               value={dateRange}
               title={"REFINE BY DATE"}
@@ -83,7 +82,7 @@ export default function FilterContainer(props) {
       <div className="d-flex justify-content-end">
         <button
           onClick={() => setOpen(!open)}
-          className="btn btn-secondary "
+          className="btn btn-secondary filter-btn"
           aria-controls="filter-collapse"
           aria-expanded={open}
         >

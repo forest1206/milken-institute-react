@@ -9,11 +9,11 @@ export default function MainContent(props) {
         {contents.map((content, index) => (
           <div key={index} className="col-lg-3 col-sm-6 col-xs-12 mb-3">
             <ContentCard
-              id={content.id}
-              image={content.image}
+              id={content.uuid}
+              image={content.url}
               type={content.type}
-              title={content.title}
-              text={content.text}
+              title={content.label}
+              text={content.search_api_excerpt}
             />
           </div>
         ))}
@@ -27,11 +27,11 @@ export default function MainContent(props) {
         {contents.map((content, index) => (
           <div key={index}>
             <ContentRow
-              id={content.id}
-              image={content.image}
+              id={content.uuid}
+              image={content.url}
               type={content.type}
-              title={content.title}
-              text={content.text}
+              title={content.label}
+              text={content.search_api_excerpt}
             />
           </div>
         ))}
@@ -39,11 +39,15 @@ export default function MainContent(props) {
     );
   }
 
-  return (
-    <div>
-      {props.isGrid
-        ? renderCardView(props.contents)
-        : renderListView(props.contents)}
-    </div>
-  );
+  if (props.contents && props.contents.length > 0) {
+    return (
+      <div>
+        {props.isGrid
+          ? renderCardView(props.contents)
+          : renderListView(props.contents)}
+      </div>
+    );
+  } else {
+    return <div>Sorry, can't find any contents</div>;
+  }
 }

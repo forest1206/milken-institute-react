@@ -1,15 +1,8 @@
 import React, { useState, useRef } from "react";
 import Select from "react-select";
-// import { IoChevronUpOutline, IoChevronDownOutline } from "react-icons/io5";
 import { FaChevronUp, FaChevronDown } from "react-icons/fa";
 
-export default function FilterDropdown({
-  value,
-  options,
-  title,
-  isDateSelect,
-  onChange,
-}) {
+const FilterDateSelect = ({ value, options, title, onChange }) => {
   const [menuIsOpen, setMenuIsOpen] = useState(false);
   const selectRef = useRef(null);
 
@@ -44,9 +37,10 @@ export default function FilterDropdown({
         onChange={(options) => handleChange(options)}
         options={options}
         menuIsOpen={menuIsOpen}
-        isMulti={isDateSelect ? false : true}
         components={{ DropdownIndicator: () => null }}
       />
     </div>
   );
-}
+};
+
+export default FilterDateSelect;

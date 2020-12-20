@@ -1,0 +1,5 @@
+{
+  "/api/v1.0/search?_format=json&keywords=health": "/contents",
+  "/api/v1.0/search?*=:searchstring": "/contents",
+  "/api/v1.0/*": "/$1"
+}

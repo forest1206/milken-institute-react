@@ -1,36 +1,100 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import FilterContainer from "../components/FilterContainer";
 import ToolbarContainer from "../components/ToolbarContainer";
 import MainContent from "../components/MainContent";
 import {
-  typeOptions,
-  centerOptions,
-  dateOptions,
-  topicOptions,
-  contents,
-  sortOptions,
-  perpageOptions,
-} from "./../api/mockup";
+  fetchContents,
+  fetchTypes,
+  fetchTopics,
+  fetchCenters,
+} from "./../api/api";
+
+import { sortOptions, perpageOptions, dateOptions } from "./../api/mockup";
 
 function SearchContentPage() {
   const [grid, setGrid] = useState(true);
 
   const [sortby, setSortBy] = useState(sortOptions[0]);
   const [perpage, setPerpage] = useState(perpageOptions[0]);
-
-  const [types, setTypes] = useState([typeOptions[0]]);
-  const [centers, setCenters] = useState([centerOptions[0]]);
-  const [topics, setTopics] = useState([topicOptions[0]]);
   const [daterange, setDaterange] = useState(dateOptions[0]);
 
-  function handleViewChange(mode) {
-    console.log("mode", mode);
+  const [types, setTypes] = useState([]);
+  const [centers, setCenters] = useState([]);
+  const [topics, setTopics] = useState([]);
+
+  const [typeOptions, setTypeOptions] = useState([]);
+  const [centerOptions, setCenterOptions] = useState([]);
+  const [topicOptions, setTopicOptions] = useState([]);
+
+  const [contents, setContents] = useState([]);
+
+  useEffect(() => {
+    // default search params
+    const params = {
+      _format: "json",
+      keywords: "health",
+    };
+
+    getContentTypes();
+    getTopics();
+    getCenters();
+    getFilteredContents(params);
+  }, []);
+
+  useEffect(() => {
+    setTypes([]);
+    setTopics([]);
+    setCenters([]);
+  }, [typeOptions, topicOptions, centerOptions]);
+
+  const getFilteredContents = async (params) => {
+    let res = await fetchContents(params);
+    if (res.status === 200) {
+      console.log("success", res);
+      setContents(res.data);
+    } else {
+      console.log("error", res);
+    }
+  };
+
+  const getContentTypes = async () => {
+    let res = await fetchTypes();
+    if (res.status === 200) {
+      setTypeOptions(makeOptions(res.data));
+    } else {
+      console.log("error", res);
+    }
+  };
+
+  const getTopics = async () => {
+    let res = await fetchTopics();
+    if (res.status === 200) {
+      setTopicOptions(makeOptions(res.data));
+    } else {
+      console.log("error", res);
+    }
+  };
+
+  const getCenters = async () => {
+    let res = await fetchCenters();
+    if (res.status === 200) {
+      setCenterOptions(makeOptions(res.data));
+    } else {
+      console.log("error", res);
+    }
+  };
+
+  const makeOptions = (options) => {
+    return options.map((option) => ({ label: option, value: option }));
+  };
+
+  const handleViewChange = (mode) => {
     if (mode === "grid") {
       setGrid(true);
     } else {
       setGrid(false);
     }
-  }
+  };
 
   const handleSortbyChange = (value) => {
     setSortBy(value);
@@ -41,18 +105,27 @@ function SearchContentPage() {
   };
 
   const handleApplyFilter = () => {
-    console.log("types", types);
-    console.log("centers", centers);
-    console.log("topics", topics);
-    console.log("daterange", daterange);
-    console.log("sortby", sortby);
-    console.log("perpage", perpage);
+    let typesArray = types.map((type) => type.value);
+    let topicsArray = topics.map((topic) => topic.value);
+    let centersArray = centers.map((center) => center.value);
+
+    let params = {
+      types: typesArray,
+      topics: topicsArray,
+      centers: centersArray,
+      sortby,
+      perpage,
+    };
+
+    console.log("params object", params);
+
+    getFilteredContents(params);
   };
 
   const handleResetFilter = () => {
-    setTypes([typeOptions[0]]);
-    setCenters([centerOptions[0]]);
-    setTopics([topicOptions[0]]);
+    setTypes([]);
+    setCenters([]);
+    setTopics([]);
     setDaterange(dateOptions[0]);
   };
 
