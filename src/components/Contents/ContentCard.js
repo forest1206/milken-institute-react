@@ -45,19 +45,17 @@ function TextEllipsis({ text }) {
 function ContentCard({ id, image, type, title, text }) {
   return (
     <div className="content-card card d-flex flex-column">
-      <div className="card-body">
-        <div className="content-image-wrapper">
-          <img alt="content" src={image} className="card-image" />
-          <span>{type}</span>
-        </div>
-        <div className="content-text-wrapper">
-          <h5>{title}</h5>
-          {text && text.length > MAX_LENGTH_LIMIT ? (
-            <TextEllipsis text={text} />
-          ) : (
-            <div dangerouslySetInnerHTML={{ __html: text }}></div>
-          )}
-        </div>
+      <div className="content-image-wrapper">
+        <img alt="content" src={image} className="card-image" />
+        <span>{type}</span>
+      </div>
+      <div className="content-text-wrapper">
+        <h5>{title}</h5>
+        {text && text.length > MAX_LENGTH_LIMIT ? (
+          <TextEllipsis text={text} />
+        ) : (
+          <div dangerouslySetInnerHTML={{ __html: text }}></div>
+        )}
       </div>
     </div>
   );

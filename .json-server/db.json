@@ -78,5 +78,79 @@
     "Center for Public Health",
     "Research Department"
   ],
-  "topics": ["Sports", "Arts", "Programming"]
+  "topics": ["Sports", "Arts", "Programming"],
+  "centers_data": [
+    {
+      "name": "Asia Center",
+      "description": "Some text about this center",
+      "link_uri": "/some/path/to/center/landing/page",
+      "link_text": "Learn More",
+      "image": "/images/demo2.jpg",
+      "order": 1
+    },
+    {
+      "name": "Center for Financial Markets",
+      "description": "Some text about this center",
+      "link_uri": "/some/path/to/center/landing/page",
+      "link_text": "Learn More",
+      "image": "/images/demo3.jpg",
+      "order": 1
+    },
+    {
+      "name": "Center for Public Health",
+      "description": "Some text about this center",
+      "link_uri": "/some/path/to/center/landing/page",
+      "link_text": "Learn More",
+      "image": "/images/demo4.jpg",
+      "order": 1
+    },
+    {
+      "name": "Research Department",
+      "description": "Some text about this center",
+      "link_uri": "/some/path/to/center/landing/page",
+      "link_text": "Learn More",
+      "image": "/images/demo5.jpg",
+      "order": 1
+    },
+    {
+      "name": "Center for Public Health",
+      "description": "Some text about this center",
+      "link_uri": "/some/path/to/center/landing/page",
+      "link_text": "Learn More",
+      "image": "/images/demo6.jpg",
+      "order": 1
+    },
+    {
+      "name": "Research Department",
+      "description": "Some text about this center",
+      "link_uri": "/some/path/to/center/landing/page",
+      "link_text": "Learn More",
+      "image": "/images/demo7.jpg",
+      "order": 1
+    },
+    {
+      "name": "Asia Center",
+      "description": "Some text about this center",
+      "link_uri": "/some/path/to/center/landing/page",
+      "link_text": "Learn More",
+      "image": "/images/demo2.jpg",
+      "order": 1
+    },
+    {
+      "name": "Center for Financial Markets",
+      "description": "Some text about this center",
+      "link_uri": "/some/path/to/center/landing/page",
+      "link_text": "Learn More",
+      "image": "/images/demo3.jpg",
+      "order": 1
+    },
+    {
+      "name": "Center for Public Health",
+      "description": "Some text about this center",
+      "link_uri": "/some/path/to/center/landing/page",
+      "link_text": "Learn More",
+      "image": "/images/demo4.jpg",
+      "order": 1
+    }
+  ]
 }

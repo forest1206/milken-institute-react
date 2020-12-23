@@ -31,9 +31,17 @@ export const fetchTopics = async () => {
   }
 };
 
-export const fetchCenters = async (params) => {
+export const fetchCenters = async () => {
   try {
     return await axios.get(`${API_URL}/centers`);
+  } catch (err) {
+    return err;
+  }
+};
+
+export const fetchCentersData = async () => {
+  try {
+    return await axios.get(`${API_URL}/centers_data`);
   } catch (err) {
     return err;
   }
