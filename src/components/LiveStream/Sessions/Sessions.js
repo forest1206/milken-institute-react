@@ -28,10 +28,10 @@ export default function Sessions({ sessionDays }) {
   };
 
   return (
-    <div>
+    <>
       {getOrderedSessionDays().map((item, index) => (
         <Session key={index} idx={index + 1} sessionDay={item} />
       ))}
-    </div>
+    </>
   );
 }

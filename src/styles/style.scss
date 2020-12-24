@@ -4,3 +4,9 @@
 @import "./pages/center.scss";
 @import "./pages/livestream.scss";
 @import "./pages/search_content.scss";
+
+:root {
+  --backgroundLightColor: #0051a4;
+  --backgroundDarkColor: #003469;
+  --hightlightColor: #ff6633;
+}

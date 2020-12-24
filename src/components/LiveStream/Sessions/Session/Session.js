@@ -16,19 +16,21 @@ export default function Session({ sessionDay, idx }) {
 
     return sessionBadgeText;
   };
+
   return (
     <Element name={sessionDay.day_anchor} class="section">
-      <div id={`${sessionDay.day_anchor}`}></div>
-      <div class="container schedule">
-        <h1>{renderSessionBadge()}</h1>
-        <h2>Day {idx}</h2>
-        <h3>{sessionDay.date_string}</h3>
-        <div class="schedule_rows">
-          <ul>
-            {sessionDay.data.map((timeData, index) => (
-              <SessionTime key={index} data={timeData} />
-            ))}
-          </ul>
+      <div class="container">
+        <div class="schedule">
+          <h1>{renderSessionBadge()}</h1>
+          <h2>Day {idx}</h2>
+          <h3>{sessionDay.date_string}</h3>
+          <div class="schedule_rows">
+            <ul>
+              {sessionDay.data.map((timeData, index) => (
+                <SessionTime key={index} data={timeData} />
+              ))}
+            </ul>
+          </div>
         </div>
       </div>
     </Element>

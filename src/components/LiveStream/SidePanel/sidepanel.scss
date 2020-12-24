@@ -1,0 +1,75 @@
+.side-panel {
+  font-weight: 300;
+  line-height: 1.5em;
+  position: fixed;
+  top: 180px;
+  right: 0;
+  width: 64px;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 1031;
+  border-radius: 8px 0 0 8px;
+  text-align: center;
+  top: 120px;
+  .panel-toggler {
+    padding: 10px;
+    svg {
+      fill: #ffffff;
+      width: 30px;
+      height: 30px;
+    }
+    &:hover {
+      svg {
+        fill: var(--hightlightColor);
+      }
+    }
+  }
+  .color-panel {
+    right: 70px;
+    left: auto;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.1875rem;
+    padding: 10px 20px;
+    position: absolute;
+    color: rgba(0, 0, 0, 0.87);
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    background: #fff;
+    border-radius: 3px;
+
+    display: none;
+    transform: translateY(-15%);
+    top: 27px;
+    opacity: 0;
+    transform-origin: 0 0;
+    transition: all ease-in-out 300ms;
+    .badge {
+      border: 3px solid #ffffff;
+      border-radius: 50%;
+      cursor: pointer;
+      display: inline-block;
+      height: 23px;
+      margin-right: 5px;
+      position: relative;
+      width: 23px;
+      background-color: rgba(30, 30, 30, 0.97);
+      &.badge-green {
+        background-color: #00aea4;
+      }
+      &.badge-blue {
+        background-color: #001f5f;
+      }
+      &.active {
+        border: 3px solid #ff6633;
+      }
+    }
+    &.show {
+      display: block;
+      visibility: visible;
+      opacity: 1;
+      transform: translateY(-13%);
+      transform-origin: 0 0;
+    }
+  }
+}

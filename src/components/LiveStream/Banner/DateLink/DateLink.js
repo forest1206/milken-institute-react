@@ -6,15 +6,14 @@ export default function DateLink({ singleDay, isActive }) {
   const renderDateClass = () => {
     const sessionDate = moment(singleDay.date_string);
     const hoursDiff = moment.duration(sessionDate.diff(moment.now())).asHours();
-    // console.log("diff", sessionDate.diff(moment.now(), "hours"));
-    // console.log("hoursDiff", hoursDiff);
+
     const className =
       hoursDiff > 0 ? "" : hoursDiff > -24 ? "current-date" : "past-date";
     return className;
   };
 
   const renderDateLetter = () => {
-    let dateLinkDateArray = singleDay.date_string.split(", ");
+    let dateLinkDateArray = singleDay.date_string.split(",");
     let dateLinkLetter =
       dateLinkDateArray[0] === "Thursday"
         ? "TH"

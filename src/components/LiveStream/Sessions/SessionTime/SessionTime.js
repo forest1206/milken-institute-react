@@ -11,15 +11,15 @@ export default function SessionTime({ data }) {
       </div>
       <div class="session_title">
         <p>
-          <Link class="watch_video" to={`${data.url}`}>
+          <a class="watch_video" href={`${data.url}`}>
             {data.title}
-          </Link>
+          </a>
         </p>
       </div>
       <div class="session_links">
-        <Link class="watch_video" to={`${data.url}`}>
+        <a class="watch_video" href={`${data.url}`}>
           <i class="far fa-play-circle"></i>
-        </Link>
+        </a>
       </div>
     </li>
   );
