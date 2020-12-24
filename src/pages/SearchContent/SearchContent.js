@@ -2,21 +2,14 @@ import React, { useState, useEffect } from "react";
 import FilterContainer from "../../components/Contents/FilterContainer";
 import ToolbarContainer from "../../components/Contents/ToolbarContainer";
 import MainContent from "../../components/Contents/MainContent";
-import {
-  fetchContents,
-  fetchTypes,
-  fetchTopics,
-  fetchCenters,
-} from "../../api/api";
-
-import { sortOptions, perpageOptions, dateOptions } from "../../api/mockup";
+import { contentAPI, mockupData } from "../../api";
 
 function SearchContent() {
   const [grid, setGrid] = useState(true);
 
-  const [sortby, setSortBy] = useState(sortOptions[0]);
-  const [perpage, setPerpage] = useState(perpageOptions[0]);
-  const [daterange, setDaterange] = useState(dateOptions[0]);
+  const [sortby, setSortBy] = useState(mockupData.sortOptions[0]);
+  const [perpage, setPerpage] = useState(mockupData.perpageOptions[0]);
+  const [daterange, setDaterange] = useState(mockupData.dateOptions[0]);
 
   const [types, setTypes] = useState([]);
   const [centers, setCenters] = useState([]);
@@ -48,7 +41,7 @@ function SearchContent() {
   }, [typeOptions, topicOptions, centerOptions]);
 
   const getFilteredContents = async (params) => {
-    let res = await fetchContents(params);
+    let res = await contentAPI.fetchContents(params);
     if (res.status === 200) {
       console.log("success", res);
       setContents(res.data);
@@ -58,7 +51,7 @@ function SearchContent() {
   };
 
   const getContentTypes = async () => {
-    let res = await fetchTypes();
+    let res = await contentAPI.fetchTypes();
     if (res.status === 200) {
       setTypeOptions(makeOptions(res.data));
     } else {
@@ -67,7 +60,7 @@ function SearchContent() {
   };
 
   const getTopics = async () => {
-    let res = await fetchTopics();
+    let res = await contentAPI.fetchTopics();
     if (res.status === 200) {
       setTopicOptions(makeOptions(res.data));
     } else {
@@ -76,7 +69,7 @@ function SearchContent() {
   };
 
   const getCenters = async () => {
-    let res = await fetchCenters();
+    let res = await contentAPI.fetchCenters();
     if (res.status === 200) {
       setCenterOptions(makeOptions(res.data));
     } else {
@@ -126,7 +119,7 @@ function SearchContent() {
     setTypes([]);
     setCenters([]);
     setTopics([]);
-    setDaterange(dateOptions[0]);
+    setDaterange(mockupData.dateOptions[0]);
   };
 
   const handleContentTypeChange = (types) => {
@@ -147,32 +140,34 @@ function SearchContent() {
   };
 
   return (
-    <div>
-      <ToolbarContainer
-        sortby={sortby}
-        perpage={perpage}
-        onSortbyChange={handleSortbyChange}
-        onPerpageChange={handlePerpageChange}
-        grid={grid}
-        onViewChange={handleViewChange}
-      />
-      <FilterContainer
-        typeOptions={typeOptions}
-        centerOptions={centerOptions}
-        topicOptions={topicOptions}
-        dateOptions={dateOptions}
-        types={types}
-        centers={centers}
-        topics={topics}
-        dateRange={daterange}
-        onApplyFilter={handleApplyFilter}
-        onResetFilter={handleResetFilter}
-        onContentTypeChange={handleContentTypeChange}
-        onCenterChange={handleCenterChange}
-        onTopicChange={handleTopicChange}
-        onDateRangeChange={handleDateRangeChange}
-      />
-      <MainContent isGrid={grid} contents={contents} />
+    <div id="search-content">
+      <div className="container">
+        <ToolbarContainer
+          sortby={sortby}
+          perpage={perpage}
+          onSortbyChange={handleSortbyChange}
+          onPerpageChange={handlePerpageChange}
+          grid={grid}
+          onViewChange={handleViewChange}
+        />
+        <FilterContainer
+          typeOptions={typeOptions}
+          centerOptions={centerOptions}
+          topicOptions={topicOptions}
+          dateOptions={mockupData.dateOptions}
+          types={types}
+          centers={centers}
+          topics={topics}
+          dateRange={daterange}
+          onApplyFilter={handleApplyFilter}
+          onResetFilter={handleResetFilter}
+          onContentTypeChange={handleContentTypeChange}
+          onCenterChange={handleCenterChange}
+          onTopicChange={handleTopicChange}
+          onDateRangeChange={handleDateRangeChange}
+        />
+        <MainContent isGrid={grid} contents={contents} />
+      </div>
     </div>
   );
 }

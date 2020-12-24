@@ -5,7 +5,7 @@ const API_URL =
     ? process.env.REACT_APP_API_URL
     : "http://localhost:5000/api/v1.0";
 
-export const fetchContents = async (params) => {
+const fetchContents = async (params) => {
   try {
     return await axios.get(`${API_URL}/search`, {
       params: JSON.stringify(params),
@@ -15,7 +15,7 @@ export const fetchContents = async (params) => {
   }
 };
 
-export const fetchTypes = async () => {
+const fetchTypes = async () => {
   try {
     return await axios.get(`${API_URL}/types`);
   } catch (err) {
@@ -23,7 +23,7 @@ export const fetchTypes = async () => {
   }
 };
 
-export const fetchTopics = async () => {
+const fetchTopics = async () => {
   try {
     return await axios.get(`${API_URL}/topics`);
   } catch (err) {
@@ -31,7 +31,7 @@ export const fetchTopics = async () => {
   }
 };
 
-export const fetchCenters = async () => {
+const fetchCenters = async () => {
   try {
     return await axios.get(`${API_URL}/centers`);
   } catch (err) {
@@ -39,10 +39,18 @@ export const fetchCenters = async () => {
   }
 };
 
-export const fetchCentersData = async () => {
+const fetchCentersData = async () => {
   try {
     return await axios.get(`${API_URL}/centers_data`);
   } catch (err) {
     return err;
   }
+};
+
+export {
+  fetchContents,
+  fetchTypes,
+  fetchTopics,
+  fetchCenters,
+  fetchCentersData,
 };

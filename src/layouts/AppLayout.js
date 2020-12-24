@@ -6,7 +6,7 @@ import routes from "../routes";
 
 export default function AppLayout(props) {
   return (
-    <div className="container">
+    <>
       <Header />
       <Switch>
         {routes.map((route, key) => (
@@ -20,6 +20,6 @@ export default function AppLayout(props) {
         ))}
       </Switch>
       <Footer />
-    </div>
+    </>
   );
 }
