@@ -12,8 +12,13 @@ export default function SidePanel() {
 
     useEffect(() => {
         console.log('SidePanel', theme, changeTheme);
-        setSelected('blue');
+        loadSavedThemeOption();
     }, []);
+
+    const loadSavedThemeOption = () => {
+        let theme = localStorage.getItem('theme') || 'blue';
+        setSelected(theme);
+    };
 
     const handleThemeChange = (color) => {
         setSelected(color);
