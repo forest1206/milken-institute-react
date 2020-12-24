@@ -1,704 +1,704 @@
 {
-  "contents": [
-    {
-      "uuid": "b91f6380-a363-4c04-93f7-675ee7b4bbe8",
-      "label": " Gender-Based Health Disparities: A State-Level Study of the American Adult Population \u0026gt; Content",
-      "search_api_excerpt": "\u2026 Many studies empirically investigate sex differences in \u003Cstrong\u003Ehealth\u003C/strong\u003E outcomes at national and international levels, but our understanding of gender-based \u003Cstrong\u003Ehealth\u003C/strong\u003E differences across U.S. states remains opaque. What we do know is that the \u003Cstrong\u003Ehealth\u003C/strong\u003E of American women continues to improve, but progress \u2026",
-      "url": "/images/demo2.jpg",
-      "type": "event"
-    },
-    {
-      "uuid": "842c88e5-7fa5-47fb-a404-9ba8919f92d7",
-      "label": "Orphaned Body Content: Despite spending more than any other country on h\u2026",
-      "search_api_excerpt": "\u2026 Despite spending more than any other country on \u003Cstrong\u003Ehealth\u003C/strong\u003E, the U.S. has a mediocre ranking across most \u003Cstrong\u003Ehealth\u003C/strong\u003E care quality and \u003Cstrong\u003Ehealth\u003C/strong\u003E outcome indicators. According to a report published in \u2026",
-      "url": "/images/demo1.jpg",
-      "type": "speaker"
-    },
-    {
-      "uuid": "7eb0f3be-771d-49b8-b7d1-893b6ac26dfe",
-      "label": "Orphaned Body Content: Despite spending more than any other country on h\u2026",
-      "search_api_excerpt": "\u2026 Despite spending more than any other country on \u003Cstrong\u003Ehealth\u003C/strong\u003E, the U.S. has a mediocre ranking across most \u003Cstrong\u003Ehealth\u003C/strong\u003E care quality and \u003Cstrong\u003Ehealth\u003C/strong\u003E outcome indicators. According to a report published in \u2026",
-      "url": "/images/demo2.jpg",
-      "type": "event"
-    },
-    {
-      "uuid": "ce156823-656d-4c81-b4dd-972a2ced9b6f",
-      "label": "Orphaned Body Content: Traditional health care has not reached all pocke\u2026",
-      "search_api_excerpt": "\u2026 Traditional \u003Cstrong\u003Ehealth\u003C/strong\u003E care has not reached all pockets of the U.S. \u2026 and cultural diversity, and deep fragmentation of the \u003Cstrong\u003Ehealth\u003C/strong\u003E care system. Community \u003Cstrong\u003Ehealth\u003C/strong\u003E models have evolved as alternative modes of care to \u2026",
-      "url": "/images/demo3.jpg",
-      "type": "speaker"
-    },
-    {
-      "uuid": "696f694b-1f58-43af-810a-bc8902c30309",
-      "label": "Beyond the Limits of Traditional Health Care: A State-Level Systematic Review of Community Health Programs in the United States \u0026gt; Content",
-      "search_api_excerpt": "\u2026 Traditional \u003Cstrong\u003Ehealth\u003C/strong\u003E care has not reached all pockets of the U.S. \u2026 and cultural diversity, and deep fragmentation of the \u003Cstrong\u003Ehealth\u003C/strong\u003E care system. Community \u003Cstrong\u003Ehealth\u003C/strong\u003E models have evolved as alternative modes of care to \u2026",
-      "url": "/images/demo2.jpg",
-      "type": "article"
-    },
-    {
-      "uuid": "b91f6380-a363-4c04-93f7-675ee7b4bbe8",
-      "label": " Gender-Based Health Disparities: A State-Level Study of the American Adult Population \u0026gt; Content",
-      "search_api_excerpt": "\u2026 Many studies empirically investigate sex differences in \u003Cstrong\u003Ehealth\u003C/strong\u003E outcomes at national and international levels, but our understanding of gender-based \u003Cstrong\u003Ehealth\u003C/strong\u003E differences across U.S. states remains opaque. What we do know is that the \u003Cstrong\u003Ehealth\u003C/strong\u003E of American women continues to improve, but progress \u2026",
-      "url": "/images/demo2.jpg",
-      "type": "article"
-    },
-    {
-      "uuid": "842c88e5-7fa5-47fb-a404-9ba8919f92d7",
-      "label": "Orphaned Body Content: Despite spending more than any other country on h\u2026",
-      "search_api_excerpt": "\u2026 Despite spending more than any other country on \u003Cstrong\u003Ehealth\u003C/strong\u003E, the U.S. has a mediocre ranking across most \u003Cstrong\u003Ehealth\u003C/strong\u003E care quality and \u003Cstrong\u003Ehealth\u003C/strong\u003E outcome indicators. According to a report published in \u2026",
-      "url": "/images/demo1.jpg",
-      "type": "speaker"
-    },
-    {
-      "uuid": "7eb0f3be-771d-49b8-b7d1-893b6ac26dfe",
-      "label": "Orphaned Body Content: Despite spending more than any other country on h\u2026",
-      "search_api_excerpt": "\u2026 Despite spending more than any other country on \u003Cstrong\u003Ehealth\u003C/strong\u003E, the U.S. has a mediocre ranking across most \u003Cstrong\u003Ehealth\u003C/strong\u003E care quality and \u003Cstrong\u003Ehealth\u003C/strong\u003E outcome indicators. According to a report published in \u2026",
-      "url": "/images/demo2.jpg",
-      "type": "event"
-    },
-    {
-      "uuid": "ce156823-656d-4c81-b4dd-972a2ced9b6f",
-      "label": "Orphaned Body Content: Traditional health care has not reached all pocke\u2026",
-      "search_api_excerpt": "\u2026 Traditional \u003Cstrong\u003Ehealth\u003C/strong\u003E care has not reached all pockets of the U.S. \u2026 and cultural diversity, and deep fragmentation of the \u003Cstrong\u003Ehealth\u003C/strong\u003E care system. Community \u003Cstrong\u003Ehealth\u003C/strong\u003E models have evolved as alternative modes of care to \u2026",
-      "url": "/images/demo3.jpg",
-      "type": "article"
-    },
-    {
-      "uuid": "696f694b-1f58-43af-810a-bc8902c30309",
-      "label": "Beyond the Limits of Traditional Health Care: A State-Level Systematic Review of Community Health Programs in the United States \u0026gt; Content",
-      "search_api_excerpt": "\u2026 Traditional \u003Cstrong\u003Ehealth\u003C/strong\u003E care has not reached all pockets of the U.S. \u2026 and cultural diversity, and deep fragmentation of the \u003Cstrong\u003Ehealth\u003C/strong\u003E care system. Community \u003Cstrong\u003Ehealth\u003C/strong\u003E models have evolved as alternative modes of care to \u2026",
-      "url": "/images/demo2.jpg",
-      "type": "event"
-    }
-  ],
-  "types": ["Articles", "Centers", "People", "Podcast", "Programs", "Reports"],
-  "centers": [
-    "Asia Center",
-    "Center for Financial Markets",
-    "Center for Public Health",
-    "Research Department"
-  ],
-  "topics": ["Sports", "Arts", "Programming"],
-  "centers_data": [
-    {
-      "name": "Asia Center",
-      "description": "Some text about this center",
-      "link_uri": "/some/path/to/center/landing/page",
-      "link_text": "Learn More",
-      "image": "/images/demo2.jpg",
-      "order": 1
-    },
-    {
-      "name": "Center for Financial Markets",
-      "description": "Some text about this center",
-      "link_uri": "/some/path/to/center/landing/page",
-      "link_text": "Learn More",
-      "image": "/images/demo3.jpg",
-      "order": 1
-    },
-    {
-      "name": "Center for Public Health",
-      "description": "Some text about this center",
-      "link_uri": "/some/path/to/center/landing/page",
-      "link_text": "Learn More",
-      "image": "/images/demo4.jpg",
-      "order": 1
-    },
-    {
-      "name": "Research Department",
-      "description": "Some text about this center",
-      "link_uri": "/some/path/to/center/landing/page",
-      "link_text": "Learn More",
-      "image": "/images/demo5.jpg",
-      "order": 1
-    },
-    {
-      "name": "Center for Public Health",
-      "description": "Some text about this center",
-      "link_uri": "/some/path/to/center/landing/page",
-      "link_text": "Learn More",
-      "image": "/images/demo6.jpg",
-      "order": 1
-    },
-    {
-      "name": "Research Department",
-      "description": "Some text about this center",
-      "link_uri": "/some/path/to/center/landing/page",
-      "link_text": "Learn More",
-      "image": "/images/demo7.jpg",
-      "order": 1
-    },
-    {
-      "name": "Asia Center",
-      "description": "Some text about this center",
-      "link_uri": "/some/path/to/center/landing/page",
-      "link_text": "Learn More",
-      "image": "/images/demo2.jpg",
-      "order": 1
-    },
-    {
-      "name": "Center for Financial Markets",
-      "description": "Some text about this center",
-      "link_uri": "/some/path/to/center/landing/page",
-      "link_text": "Learn More",
-      "image": "/images/demo3.jpg",
-      "order": 1
-    },
-    {
-      "name": "Center for Public Health",
-      "description": "Some text about this center",
-      "link_uri": "/some/path/to/center/landing/page",
-      "link_text": "Learn More",
-      "image": "/images/demo4.jpg",
-      "order": 1
-    }
-  ],
-  "session_days": [
-    {
-      "day_anchor": "day_one",
-      "date_string": "Monday, December 27, 2020",
-      "data": [
+    "contents": [
         {
-          "time": "10:00 AM ET",
-          "title": "Opening Plenary | Meeting the Moment",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/opening-session-plenary"
+            "uuid": "b91f6380-a363-4c04-93f7-675ee7b4bbe8",
+            "label": " Gender-Based Health Disparities: A State-Level Study of the American Adult Population \u0026gt; Content",
+            "search_api_excerpt": "\u2026 Many studies empirically investigate sex differences in \u003Cstrong\u003Ehealth\u003C/strong\u003E outcomes at national and international levels, but our understanding of gender-based \u003Cstrong\u003Ehealth\u003C/strong\u003E differences across U.S. states remains opaque. What we do know is that the \u003Cstrong\u003Ehealth\u003C/strong\u003E of American women continues to improve, but progress \u2026",
+            "url": "/images/demo2.jpg",
+            "type": "event"
         },
         {
-          "time": "10:45 AM ET",
-          "title": "Leadership: Moving Beyond Conventional Thinking",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/leadership-beyond-conventional-thinking"
+            "uuid": "842c88e5-7fa5-47fb-a404-9ba8919f92d7",
+            "label": "Orphaned Body Content: Despite spending more than any other country on h\u2026",
+            "search_api_excerpt": "\u2026 Despite spending more than any other country on \u003Cstrong\u003Ehealth\u003C/strong\u003E, the U.S. has a mediocre ranking across most \u003Cstrong\u003Ehealth\u003C/strong\u003E care quality and \u003Cstrong\u003Ehealth\u003C/strong\u003E outcome indicators. According to a report published in \u2026",
+            "url": "/images/demo1.jpg",
+            "type": "speaker"
         },
         {
-          "time": "10:45 AM ET",
-          "title": "What Is the Prognosis for COVID-19 Treatments and Vaccines?",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/covid-19-vaccine-prognosis"
+            "uuid": "7eb0f3be-771d-49b8-b7d1-893b6ac26dfe",
+            "label": "Orphaned Body Content: Despite spending more than any other country on h\u2026",
+            "search_api_excerpt": "\u2026 Despite spending more than any other country on \u003Cstrong\u003Ehealth\u003C/strong\u003E, the U.S. has a mediocre ranking across most \u003Cstrong\u003Ehealth\u003C/strong\u003E care quality and \u003Cstrong\u003Ehealth\u003C/strong\u003E outcome indicators. According to a report published in \u2026",
+            "url": "/images/demo2.jpg",
+            "type": "event"
         },
         {
-          "time": "12:00 PM ET",
-          "title": "Building Mental Health Resilience Amidst Uncertainty",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/mental-health-resilience-covid"
+            "uuid": "ce156823-656d-4c81-b4dd-972a2ced9b6f",
+            "label": "Orphaned Body Content: Traditional health care has not reached all pocke\u2026",
+            "search_api_excerpt": "\u2026 Traditional \u003Cstrong\u003Ehealth\u003C/strong\u003E care has not reached all pockets of the U.S. \u2026 and cultural diversity, and deep fragmentation of the \u003Cstrong\u003Ehealth\u003C/strong\u003E care system. Community \u003Cstrong\u003Ehealth\u003C/strong\u003E models have evolved as alternative modes of care to \u2026",
+            "url": "/images/demo3.jpg",
+            "type": "speaker"
         },
         {
-          "time": "12:00 PM ET",
-          "title": "Navigating Policies for Reviving the Post-COVID Macroeconomy",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/post-covid-global-economy"
+            "uuid": "696f694b-1f58-43af-810a-bc8902c30309",
+            "label": "Beyond the Limits of Traditional Health Care: A State-Level Systematic Review of Community Health Programs in the United States \u0026gt; Content",
+            "search_api_excerpt": "\u2026 Traditional \u003Cstrong\u003Ehealth\u003C/strong\u003E care has not reached all pockets of the U.S. \u2026 and cultural diversity, and deep fragmentation of the \u003Cstrong\u003Ehealth\u003C/strong\u003E care system. Community \u003Cstrong\u003Ehealth\u003C/strong\u003E models have evolved as alternative modes of care to \u2026",
+            "url": "/images/demo2.jpg",
+            "type": "article"
         },
         {
-          "time": "1:15 PM ET",
-          "title": "Role of the Corporation: Between Shareholders and Stakeholders",
-          "url": "https://milkeninstitute.org/videos/role-corporation-between-shareholders-and-stakeholders"
+            "uuid": "b91f6380-a363-4c04-93f7-675ee7b4bbe8",
+            "label": " Gender-Based Health Disparities: A State-Level Study of the American Adult Population \u0026gt; Content",
+            "search_api_excerpt": "\u2026 Many studies empirically investigate sex differences in \u003Cstrong\u003Ehealth\u003C/strong\u003E outcomes at national and international levels, but our understanding of gender-based \u003Cstrong\u003Ehealth\u003C/strong\u003E differences across U.S. states remains opaque. What we do know is that the \u003Cstrong\u003Ehealth\u003C/strong\u003E of American women continues to improve, but progress \u2026",
+            "url": "/images/demo2.jpg",
+            "type": "article"
         },
         {
-          "time": "1:15 PM ET",
-          "title": "Leadership for a New Food Future",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/food-future-leadership"
+            "uuid": "842c88e5-7fa5-47fb-a404-9ba8919f92d7",
+            "label": "Orphaned Body Content: Despite spending more than any other country on h\u2026",
+            "search_api_excerpt": "\u2026 Despite spending more than any other country on \u003Cstrong\u003Ehealth\u003C/strong\u003E, the U.S. has a mediocre ranking across most \u003Cstrong\u003Ehealth\u003C/strong\u003E care quality and \u003Cstrong\u003Ehealth\u003C/strong\u003E outcome indicators. According to a report published in \u2026",
+            "url": "/images/demo1.jpg",
+            "type": "speaker"
         },
         {
-          "time": "2:30 PM ET",
-          "title": "Breaking the Cycle of Mass Incarceration",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/mass-incarceration-breaking-cycle"
+            "uuid": "7eb0f3be-771d-49b8-b7d1-893b6ac26dfe",
+            "label": "Orphaned Body Content: Despite spending more than any other country on h\u2026",
+            "search_api_excerpt": "\u2026 Despite spending more than any other country on \u003Cstrong\u003Ehealth\u003C/strong\u003E, the U.S. has a mediocre ranking across most \u003Cstrong\u003Ehealth\u003C/strong\u003E care quality and \u003Cstrong\u003Ehealth\u003C/strong\u003E outcome indicators. According to a report published in \u2026",
+            "url": "/images/demo2.jpg",
+            "type": "event"
         },
-
         {
-          "time": "2:30 PM ET",
-          "title": "Global Capital Markets",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/global-capital-markets"
+            "uuid": "ce156823-656d-4c81-b4dd-972a2ced9b6f",
+            "label": "Orphaned Body Content: Traditional health care has not reached all pocke\u2026",
+            "search_api_excerpt": "\u2026 Traditional \u003Cstrong\u003Ehealth\u003C/strong\u003E care has not reached all pockets of the U.S. \u2026 and cultural diversity, and deep fragmentation of the \u003Cstrong\u003Ehealth\u003C/strong\u003E care system. Community \u003Cstrong\u003Ehealth\u003C/strong\u003E models have evolved as alternative modes of care to \u2026",
+            "url": "/images/demo3.jpg",
+            "type": "article"
         },
-
         {
-          "time": "4:30 PM ET",
-          "title": "A Conversation with Ray Dalio and Tom Friedman",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-raymond-dalio-tom-friedman"
+            "uuid": "696f694b-1f58-43af-810a-bc8902c30309",
+            "label": "Beyond the Limits of Traditional Health Care: A State-Level Systematic Review of Community Health Programs in the United States \u0026gt; Content",
+            "search_api_excerpt": "\u2026 Traditional \u003Cstrong\u003Ehealth\u003C/strong\u003E care has not reached all pockets of the U.S. \u2026 and cultural diversity, and deep fragmentation of the \u003Cstrong\u003Ehealth\u003C/strong\u003E care system. Community \u003Cstrong\u003Ehealth\u003C/strong\u003E models have evolved as alternative modes of care to \u2026",
+            "url": "/images/demo2.jpg",
+            "type": "event"
         }
-      ]
-    },
-    {
-      "day_anchor": "day_two",
-      "date_string": "Tuesday, December 31, 2020",
-      "data": [
+    ],
+    "types": ["Articles", "Centers", "People", "Podcast", "Programs", "Reports"],
+    "centers": [
+        "Asia Center",
+        "Center for Financial Markets",
+        "Center for Public Health",
+        "Research Department"
+    ],
+    "topics": ["Sports", "Arts", "Programming"],
+    "centers_data": [
         {
-          "time": "8:30 AM ET",
-          "title": "Financial Markets: How to Manage Uncertainty",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/financial-markets-manage-uncertainty"
+            "name": "Asia Center",
+            "description": "Some text about this center",
+            "link_uri": "/some/path/to/center/landing/page",
+            "link_text": "Learn More",
+            "image": "/images/demo2.jpg",
+            "order": 1
         },
         {
-          "time": "8:30 AM ET",
-          "title": "Measuring Risk and Returns Across ESG Investments",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/esg-investments-measuring-risk-returns"
+            "name": "Center for Financial Markets",
+            "description": "Some text about this center",
+            "link_uri": "/some/path/to/center/landing/page",
+            "link_text": "Learn More",
+            "image": "/images/demo3.jpg",
+            "order": 1
         },
         {
-          "time": "10:00 AM ET",
-          "title": "Predicting the Future: What's Next for AI and Data Analytics?",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/ai-data-analytics-predicting-future"
+            "name": "Center for Public Health",
+            "description": "Some text about this center",
+            "link_uri": "/some/path/to/center/landing/page",
+            "link_text": "Learn More",
+            "image": "/images/demo4.jpg",
+            "order": 1
         },
         {
-          "time": "10:00 AM ET",
-          "title": "The Listening Project: Global Priorities According to Global Citizens",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/listening-project-global-priorities-according-global-citizens"
+            "name": "Research Department",
+            "description": "Some text about this center",
+            "link_uri": "/some/path/to/center/landing/page",
+            "link_text": "Learn More",
+            "image": "/images/demo5.jpg",
+            "order": 1
         },
         {
-          "time": "11:15 AM ET",
-          "title": "Election 2020 and the Political Aftermath",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/2020-election-political-aftermath"
+            "name": "Center for Public Health",
+            "description": "Some text about this center",
+            "link_uri": "/some/path/to/center/landing/page",
+            "link_text": "Learn More",
+            "image": "/images/demo6.jpg",
+            "order": 1
         },
         {
-          "time": "11:15 AM ET",
-          "title": "Corporate Leadership: Transforming Disruption into Opportunity",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/corporate-leadership-transforming-disruption-opportunity"
+            "name": "Research Department",
+            "description": "Some text about this center",
+            "link_uri": "/some/path/to/center/landing/page",
+            "link_text": "Learn More",
+            "image": "/images/demo7.jpg",
+            "order": 1
         },
         {
-          "time": "1:15 PM ET",
-          "title": "Renewed Outlook: Sustainability as a Business Model",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/sustainability-business-model"
+            "name": "Asia Center",
+            "description": "Some text about this center",
+            "link_uri": "/some/path/to/center/landing/page",
+            "link_text": "Learn More",
+            "image": "/images/demo2.jpg",
+            "order": 1
         },
         {
-          "time": "1:15 PM ET",
-          "title": "Part 1: A Conversation with CFTC Chairman and Chief Executive Heath Tarbert | Part 2: Investing in the Next Big Thing",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/heath-tarbert-discussion-innovations"
+            "name": "Center for Financial Markets",
+            "description": "Some text about this center",
+            "link_uri": "/some/path/to/center/landing/page",
+            "link_text": "Learn More",
+            "image": "/images/demo3.jpg",
+            "order": 1
         },
         {
-          "time": "2:30 PM ET",
-          "title": "Banking with Purpose: Supporting Black Banks and Businesses",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/supporting-black-banks"
-        },
-        {
-          "time": "2:30 PM ET",
-          "title": "Chronic Disease, COVID-19, and the Path to Improved Health",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/chronic-disease-covid"
-        },
-        {
-          "time": "4:00 PM ET",
-          "title": "A Conversation with Secretary John Kerry and Ambassador Susan Rice",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/john-kerry-susan-rice"
-        },
-        {
-          "time": "4:30 PM ET",
-          "title": "Racial Equity: Philanthropy in Reconciliation and Healing",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/racial-equity-philanthropy"
-        },
-        {
-          "time": "4:30 PM ET",
-          "title": "Purpose-Driven Companies: Doing Well by Doing Good",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/purpose-driven-companies-doing-well-doing-good"
-        },
-        {
-          "time": "8:00 PM ET",
-          "title": "Cloudy with a Chance of Recovery: Forecasting Asia's Economic Outlook",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/forecasting-asias-economic-outlook"
-        },
-        {
-          "time": "9:00 PM ET",
-          "title": "Global Insights from the Asia Pacific: A Conversation with Chan Chun Sing and Simon Birmingham",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-chan-chun-sing-simon-birmingham"
+            "name": "Center for Public Health",
+            "description": "Some text about this center",
+            "link_uri": "/some/path/to/center/landing/page",
+            "link_text": "Learn More",
+            "image": "/images/demo4.jpg",
+            "order": 1
         }
-      ]
-    },
-    {
-      "day_anchor": "day_three",
-      "date_string": "Thursday, December 24, 2020",
-      "data": [
+    ],
+    "session_days": [
         {
-          "time": "9:00 AM ET",
-          "title": "Trends Reshaping Asset Management",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/trends-reshaping-asset-management"
-        },
-        {
-          "time": "10:15 AM ET",
-          "title": "Hedge Funds: Managing a Volatile Market",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/hedge-funds-managing-volatile-market"
-        },
-        {
-          "time": "10:15 AM ET",
-          "title": "Racial and Economic Justice: Unlocking the Next Trillion of Economic Productivity",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/racial-economic-justice-unlocking-next-trillion-economic-productivity"
-        },
-        {
-          "time": "11:30 AM ET",
-          "title": "A Conversation with US Treasury Secretary Steven Mnuchin",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-us-treasury-secretary-steven-mnuchin"
-        },
-        {
-          "time": "12:15 PM ET",
-          "title": "A Conversation with Jared Bernstein and Jason Furman",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-jared-bernstein-jason-furman"
-        },
-        {
-          "time": "1:00 PM ET",
-          "title": "Part 1: A Conversation with FCC Chairman Ajit Pai | Part 2: Building for the Future: Digital Infrastructure and 5G",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-fcc-chairman-ajit-pai-building-future-digital-infrastructure"
-        },
-        {
-          "time": "1:15 PM ET",
-          "title": "Building a Stronger Food System After COVID-19",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/building-stronger-food-system-after-covid-19"
-        },
-        {
-          "time": "2:30 PM ET",
-          "title": "Ten Years in Ten Months: Accelerating the Disruption of Higher Education",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/ten-years-ten-months-accelerating-disruption-higher-education"
-        },
-        {
-          "time": "2:30 PM ET",
-          "title": "Begin Within: Set Your Mind Right",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/begin-within-set-your-mind-right"
-        },
-        {
-          "time": "4:30 PM ET",
-          "title": "Betting on the Future: Tech, Software, and Beyond",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Betting-Future-Tech-Software-Beyond"
-        },
-        {
-          "time": "4:30 PM ET",
-          "title": "Building Equity in Entrepreneurship",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Building-Equity-Entrepreneurship"
-        },
-        {
-          "time": "8:00 PM ET",
-          "title": "China's Inbound and Outbound Investments: Navigating Opportunities and Challenges",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Chinas-Inbound-Outbound-Investments-Navigating-Opportunities-Challenges"
-        }
-      ]
-    },
-    {
-      "day_anchor": "day_four",
-      "date_string": "Thursday, December 24, 2020",
-      "data": [
-        {
-          "time": "9:00 AM ET",
-          "title": "Credit Is a Cycle: Finding Opportunity in Turmoil",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Credit-Cycle-Finding-Opportunity-Turmoil"
-        },
-        {
-          "time": "9:00 AM ET",
-          "title": "National Security: Risk and Responsibility",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/National-Security-Risk-Responsibility"
-        },
-        {
-          "time": "10:15 AM ET",
-          "title": "Demystifying the Diverse and Emerging Manager Space",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Demystifying-Diverse-Emerging-Manager-Space"
-        },
-        {
-          "time": "10:15 AM ET",
-          "title": "Leading Companies Through the New Digital Reality",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Leading-Companies-Through-New-Digital-Reality"
-        },
-        {
-          "time": "12:00 PM ET",
-          "title": "Credit Opportunities: Managing Shifting Tides",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Credit-Opportunities-Managing-Shifting-Tides"
-        },
-        {
-          "time": "12:00 PM ET",
-          "title": "Private Markets: Challenges and Opportunities",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Private-Markets-Challenges-Opportunities"
-        },
-        {
-          "time": "1:15 PM ET",
-          "title": "Competitiveness, Production, and Logistics in a Disrupted World",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Competitiveness-Production-Logistics-Disrupted-World"
-        },
-        {
-          "time": "1:15 PM ET",
-          "title": "Reboot, Rewrite, Recast: How Media and Entertainment Pivot in Times of Crisis",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Reboot-Rewrite-Recast-How-Media-Entertainment-Pivot-Times-Crisis"
-        },
-        {
-          "time": "2:30 PM ET",
-          "title": "Are You Willing to Give Up Your Privilege?",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Are-You-Willing-Give-Up-Your-Privilege%3F"
-        },
-        {
-          "time": "2:30 PM ET",
-          "title": "From the Sidelines to the Frontlines: Essential Workers and the Gig Economy",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/From-Sidelines-Frontlines-Essential-Workers-Gig-Economy"
-        },
-        {
-          "time": "3:30 PM ET",
-          "title": "Finance as a Force for Good",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Finance-Force-Good"
-        },
-        {
-          "time": "3:45 PM ET",
-          "title": "A Conversation with US House Majority Whip James E. Clyburn and Former US Attorney General Eric Holder",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Conversation-US-House-Majority-Whip-James-Clyburn-Former-US-Attorney-General-Eric-Holder"
-        },
-        {
-          "time": "4:30 PM ET",
-          "title": "Bridge and Blend: The Role of DFIs in Scaling Sustainable Financing",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Bridge-Blend-Role-DFIs-Scaling-Sustainable-Financing"
-        },
-        {
-          "time": "4:30 PM ET",
-          "title": "Love in the Time of Corona",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Love-Time-Corona"
-        }
-      ]
-    },
-    {
-      "day_anchor": "day_five",
-      "date_string": "Wednesday, December 23, 2020",
-      "data": [
-        {
-          "time": "9:00 AM ET",
-          "title": "Beyond Financials: The Importance of ESG",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Beyond-Financials-Importance-ESG"
-        },
-        {
-          "time": "9:00 AM ET",
-          "title": "Lessons Learned: Market Volatility and Opportunities Ahead",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Lessons-Learned-Market-Volatility-Opportunities-Ahead"
-        },
-        {
-          "time": "10:15 AM ET",
-          "title": "Investing in the New Normal",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/investing-new-normal"
-        },
-        {
-          "time": "10:15 AM ET",
-          "title": "Predicting Pandemics: Mobilizing an Active Global Surveillance System",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Predicting-Pandemics-Mobilizing-Active-Global-Surveillance-System"
-        },
-        {
-          "time": "12:15 PM ET",
-          "title": "Leadership and Corporate Culture",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Leadership-Corporate-Culture"
-        },
-        {
-          "time": "1:15 PM ET",
-          "title": "Transforming Finance: Tech Is Everywhere",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Transforming-Finance-Tech-Everywhere"
-        },
-        {
-          "time": "1:15 PM ET",
-          "title": "Retirement Security: The COVID-19 Wake-Up Call",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Retirement-Security-COVID-19-Wake-Up-Call"
-        },
-        {
-          "time": "2:15 PM ET",
-          "title": "A Conversation with New Jersey Governor Phil Murphy | Inequity in America: Addressing Deficits in Public Health and the Economy",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Inequity-America-Addressing-Deficits-Public-Health-Economy"
-        },
-        {
-          "time": "2:30 PM ET",
-          "title": "The Next Decade: How to Manage Disruption",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Next-Decade-How-Manage-Disruption"
-        },
-        {
-          "time": "4:30 PM ET",
-          "title": "From Social Pariah to Social Fabric: What Is the Future of Digital Media?",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Social-Pariah-Social-Fabric-Future-Digital-Media"
-        },
-        {
-          "time": "5:30 PM ET",
-          "title": "A Conversation with California Governor Gavin Newsom",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-gavin-newsom"
-        }
-      ]
-    },
-    {
-      "day_anchor": "day_six",
-      "date_string": "Friday, December 25, 2020",
-      "data": [
-        {
-          "time": "10:10 AM ET",
-          "title": "Part 1: Welcoming Remarks by Japanese Prime Minister Yoshihide Suga | Part 2: Staying the Course: How Today's Crisis is Forging Our Future",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/How-Todays-Crisis-Forging-Our-Future"
-        },
-        {
-          "time": "10:15 AM ET",
-          "title": "Part 1: A Conversation with Central Bank of Brazil Governor Roberto Campos Neto | Part 2: Emerging Markets: Taking Stock from a Social Distance",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Conversation-Roberto-Campos-Neto-Emerging-Markets-Taking-Stock-Social-Distance"
-        },
-        {
-          "time": "11:30 AM ET",
-          "title": "Healthy Longevity: New Strategies for a New Normal",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Healthy-Longevity-New-Strategies-%20New-Normal"
-        },
-        {
-          "time": "11:30 AM ET",
-          "title": "Part 1: A Conversation with President of the World Bank David Malpass | Part 2: The New World (Dis-) Order?",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Conversation-President-World-Bank-David-Malpass-New-World-dis-Order"
-        },
-        {
-          "time": "1:15 PM ET",
-          "title": "A Conversation with US Department of Transportation Secretary Elaine Chao",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Conversation-US-Department-Transportation-Secretary-Elaine-Chao"
-        },
-        {
-          "time": "1:15 PM ET",
-          "title": "Common Sense in Uncommon Times",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/common-sense-uncommon-times"
-        },
+            "day_anchor": "day_one",
+            "date_string": "Monday, December 27, 2020",
+            "data": [
+                {
+                    "time": "10:00 AM ET",
+                    "title": "Opening Plenary | Meeting the Moment",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/opening-session-plenary"
+                },
+                {
+                    "time": "10:45 AM ET",
+                    "title": "Leadership: Moving Beyond Conventional Thinking",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/leadership-beyond-conventional-thinking"
+                },
+                {
+                    "time": "10:45 AM ET",
+                    "title": "What Is the Prognosis for COVID-19 Treatments and Vaccines?",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/covid-19-vaccine-prognosis"
+                },
+                {
+                    "time": "12:00 PM ET",
+                    "title": "Building Mental Health Resilience Amidst Uncertainty",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/mental-health-resilience-covid"
+                },
+                {
+                    "time": "12:00 PM ET",
+                    "title": "Navigating Policies for Reviving the Post-COVID Macroeconomy",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/post-covid-global-economy"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Role of the Corporation: Between Shareholders and Stakeholders",
+                    "url": "https://milkeninstitute.org/videos/role-corporation-between-shareholders-and-stakeholders"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Leadership for a New Food Future",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/food-future-leadership"
+                },
+                {
+                    "time": "2:30 PM ET",
+                    "title": "Breaking the Cycle of Mass Incarceration",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/mass-incarceration-breaking-cycle"
+                },
 
-        {
-          "time": "2:30 PM ET",
-          "title": "Real Estate: In the Eye of the Storm",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Real-Estate-In-the-Eye-of-the-Storm"
-        },
-        {
-          "time": "2:30 PM ET",
-          "title": "Social Isolation: Confronting the Silent Pandemic",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/social-isolation"
-        },
-        {
-          "time": "3:45 PM ET",
-          "title": "M&A: Dealing with Uncertainty",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/M-A-Dealing-with-Uncertainty"
-        },
-        {
-          "time": "3:45 PM ET",
-          "title": "Resilient Infrastructure: Adapting to Turbulent Times",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Resilient-Infrastructure-Adapting-to-Turbulent-Times"
-        },
+                {
+                    "time": "2:30 PM ET",
+                    "title": "Global Capital Markets",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/global-capital-markets"
+                },
 
+                {
+                    "time": "4:30 PM ET",
+                    "title": "A Conversation with Ray Dalio and Tom Friedman",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-raymond-dalio-tom-friedman"
+                }
+            ]
+        },
         {
-          "time": "5:00 PM ET",
-          "title": "A Conversation with US Department of Health and Human Services Secretary Alex Azar",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-us-department-health-human-services-secretary-alex-azar"
+            "day_anchor": "day_two",
+            "date_string": "Tuesday, December 31, 2020",
+            "data": [
+                {
+                    "time": "8:30 AM ET",
+                    "title": "Financial Markets: How to Manage Uncertainty",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/financial-markets-manage-uncertainty"
+                },
+                {
+                    "time": "8:30 AM ET",
+                    "title": "Measuring Risk and Returns Across ESG Investments",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/esg-investments-measuring-risk-returns"
+                },
+                {
+                    "time": "10:00 AM ET",
+                    "title": "Predicting the Future: What's Next for AI and Data Analytics?",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/ai-data-analytics-predicting-future"
+                },
+                {
+                    "time": "10:00 AM ET",
+                    "title": "The Listening Project: Global Priorities According to Global Citizens",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/listening-project-global-priorities-according-global-citizens"
+                },
+                {
+                    "time": "11:15 AM ET",
+                    "title": "Election 2020 and the Political Aftermath",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/2020-election-political-aftermath"
+                },
+                {
+                    "time": "11:15 AM ET",
+                    "title": "Corporate Leadership: Transforming Disruption into Opportunity",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/corporate-leadership-transforming-disruption-opportunity"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Renewed Outlook: Sustainability as a Business Model",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/sustainability-business-model"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Part 1: A Conversation with CFTC Chairman and Chief Executive Heath Tarbert | Part 2: Investing in the Next Big Thing",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/heath-tarbert-discussion-innovations"
+                },
+                {
+                    "time": "2:30 PM ET",
+                    "title": "Banking with Purpose: Supporting Black Banks and Businesses",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/supporting-black-banks"
+                },
+                {
+                    "time": "2:30 PM ET",
+                    "title": "Chronic Disease, COVID-19, and the Path to Improved Health",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/chronic-disease-covid"
+                },
+                {
+                    "time": "4:00 PM ET",
+                    "title": "A Conversation with Secretary John Kerry and Ambassador Susan Rice",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/john-kerry-susan-rice"
+                },
+                {
+                    "time": "4:30 PM ET",
+                    "title": "Racial Equity: Philanthropy in Reconciliation and Healing",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/racial-equity-philanthropy"
+                },
+                {
+                    "time": "4:30 PM ET",
+                    "title": "Purpose-Driven Companies: Doing Well by Doing Good",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/purpose-driven-companies-doing-well-doing-good"
+                },
+                {
+                    "time": "8:00 PM ET",
+                    "title": "Cloudy with a Chance of Recovery: Forecasting Asia's Economic Outlook",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/forecasting-asias-economic-outlook"
+                },
+                {
+                    "time": "9:00 PM ET",
+                    "title": "Global Insights from the Asia Pacific: A Conversation with Chan Chun Sing and Simon Birmingham",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-chan-chun-sing-simon-birmingham"
+                }
+            ]
+        },
+        {
+            "day_anchor": "day_three",
+            "date_string": "Thursday, December 24, 2020",
+            "data": [
+                {
+                    "time": "9:00 AM ET",
+                    "title": "Trends Reshaping Asset Management",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/trends-reshaping-asset-management"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "Hedge Funds: Managing a Volatile Market",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/hedge-funds-managing-volatile-market"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "Racial and Economic Justice: Unlocking the Next Trillion of Economic Productivity",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/racial-economic-justice-unlocking-next-trillion-economic-productivity"
+                },
+                {
+                    "time": "11:30 AM ET",
+                    "title": "A Conversation with US Treasury Secretary Steven Mnuchin",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-us-treasury-secretary-steven-mnuchin"
+                },
+                {
+                    "time": "12:15 PM ET",
+                    "title": "A Conversation with Jared Bernstein and Jason Furman",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-jared-bernstein-jason-furman"
+                },
+                {
+                    "time": "1:00 PM ET",
+                    "title": "Part 1: A Conversation with FCC Chairman Ajit Pai | Part 2: Building for the Future: Digital Infrastructure and 5G",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-fcc-chairman-ajit-pai-building-future-digital-infrastructure"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Building a Stronger Food System After COVID-19",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/building-stronger-food-system-after-covid-19"
+                },
+                {
+                    "time": "2:30 PM ET",
+                    "title": "Ten Years in Ten Months: Accelerating the Disruption of Higher Education",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/ten-years-ten-months-accelerating-disruption-higher-education"
+                },
+                {
+                    "time": "2:30 PM ET",
+                    "title": "Begin Within: Set Your Mind Right",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/begin-within-set-your-mind-right"
+                },
+                {
+                    "time": "4:30 PM ET",
+                    "title": "Betting on the Future: Tech, Software, and Beyond",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Betting-Future-Tech-Software-Beyond"
+                },
+                {
+                    "time": "4:30 PM ET",
+                    "title": "Building Equity in Entrepreneurship",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Building-Equity-Entrepreneurship"
+                },
+                {
+                    "time": "8:00 PM ET",
+                    "title": "China's Inbound and Outbound Investments: Navigating Opportunities and Challenges",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Chinas-Inbound-Outbound-Investments-Navigating-Opportunities-Challenges"
+                }
+            ]
+        },
+        {
+            "day_anchor": "day_four",
+            "date_string": "Thursday, December 24, 2020",
+            "data": [
+                {
+                    "time": "9:00 AM ET",
+                    "title": "Credit Is a Cycle: Finding Opportunity in Turmoil",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Credit-Cycle-Finding-Opportunity-Turmoil"
+                },
+                {
+                    "time": "9:00 AM ET",
+                    "title": "National Security: Risk and Responsibility",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/National-Security-Risk-Responsibility"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "Demystifying the Diverse and Emerging Manager Space",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Demystifying-Diverse-Emerging-Manager-Space"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "Leading Companies Through the New Digital Reality",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Leading-Companies-Through-New-Digital-Reality"
+                },
+                {
+                    "time": "12:00 PM ET",
+                    "title": "Credit Opportunities: Managing Shifting Tides",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Credit-Opportunities-Managing-Shifting-Tides"
+                },
+                {
+                    "time": "12:00 PM ET",
+                    "title": "Private Markets: Challenges and Opportunities",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Private-Markets-Challenges-Opportunities"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Competitiveness, Production, and Logistics in a Disrupted World",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Competitiveness-Production-Logistics-Disrupted-World"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Reboot, Rewrite, Recast: How Media and Entertainment Pivot in Times of Crisis",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Reboot-Rewrite-Recast-How-Media-Entertainment-Pivot-Times-Crisis"
+                },
+                {
+                    "time": "2:30 PM ET",
+                    "title": "Are You Willing to Give Up Your Privilege?",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Are-You-Willing-Give-Up-Your-Privilege%3F"
+                },
+                {
+                    "time": "2:30 PM ET",
+                    "title": "From the Sidelines to the Frontlines: Essential Workers and the Gig Economy",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/From-Sidelines-Frontlines-Essential-Workers-Gig-Economy"
+                },
+                {
+                    "time": "3:30 PM ET",
+                    "title": "Finance as a Force for Good",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Finance-Force-Good"
+                },
+                {
+                    "time": "3:45 PM ET",
+                    "title": "A Conversation with US House Majority Whip James E. Clyburn and Former US Attorney General Eric Holder",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Conversation-US-House-Majority-Whip-James-Clyburn-Former-US-Attorney-General-Eric-Holder"
+                },
+                {
+                    "time": "4:30 PM ET",
+                    "title": "Bridge and Blend: The Role of DFIs in Scaling Sustainable Financing",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Bridge-Blend-Role-DFIs-Scaling-Sustainable-Financing"
+                },
+                {
+                    "time": "4:30 PM ET",
+                    "title": "Love in the Time of Corona",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Love-Time-Corona"
+                }
+            ]
+        },
+        {
+            "day_anchor": "day_five",
+            "date_string": "Wednesday, December 23, 2020",
+            "data": [
+                {
+                    "time": "9:00 AM ET",
+                    "title": "Beyond Financials: The Importance of ESG",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Beyond-Financials-Importance-ESG"
+                },
+                {
+                    "time": "9:00 AM ET",
+                    "title": "Lessons Learned: Market Volatility and Opportunities Ahead",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Lessons-Learned-Market-Volatility-Opportunities-Ahead"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "Investing in the New Normal",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/investing-new-normal"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "Predicting Pandemics: Mobilizing an Active Global Surveillance System",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Predicting-Pandemics-Mobilizing-Active-Global-Surveillance-System"
+                },
+                {
+                    "time": "12:15 PM ET",
+                    "title": "Leadership and Corporate Culture",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Leadership-Corporate-Culture"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Transforming Finance: Tech Is Everywhere",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Transforming-Finance-Tech-Everywhere"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Retirement Security: The COVID-19 Wake-Up Call",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Retirement-Security-COVID-19-Wake-Up-Call"
+                },
+                {
+                    "time": "2:15 PM ET",
+                    "title": "A Conversation with New Jersey Governor Phil Murphy | Inequity in America: Addressing Deficits in Public Health and the Economy",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Inequity-America-Addressing-Deficits-Public-Health-Economy"
+                },
+                {
+                    "time": "2:30 PM ET",
+                    "title": "The Next Decade: How to Manage Disruption",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Next-Decade-How-Manage-Disruption"
+                },
+                {
+                    "time": "4:30 PM ET",
+                    "title": "From Social Pariah to Social Fabric: What Is the Future of Digital Media?",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Social-Pariah-Social-Fabric-Future-Digital-Media"
+                },
+                {
+                    "time": "5:30 PM ET",
+                    "title": "A Conversation with California Governor Gavin Newsom",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-gavin-newsom"
+                }
+            ]
+        },
+        {
+            "day_anchor": "day_six",
+            "date_string": "Friday, December 25, 2020",
+            "data": [
+                {
+                    "time": "10:10 AM ET",
+                    "title": "Part 1: Welcoming Remarks by Japanese Prime Minister Yoshihide Suga | Part 2: Staying the Course: How Today's Crisis is Forging Our Future",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/How-Todays-Crisis-Forging-Our-Future"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "Part 1: A Conversation with Central Bank of Brazil Governor Roberto Campos Neto | Part 2: Emerging Markets: Taking Stock from a Social Distance",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Conversation-Roberto-Campos-Neto-Emerging-Markets-Taking-Stock-Social-Distance"
+                },
+                {
+                    "time": "11:30 AM ET",
+                    "title": "Healthy Longevity: New Strategies for a New Normal",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Healthy-Longevity-New-Strategies-%20New-Normal"
+                },
+                {
+                    "time": "11:30 AM ET",
+                    "title": "Part 1: A Conversation with President of the World Bank David Malpass | Part 2: The New World (Dis-) Order?",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Conversation-President-World-Bank-David-Malpass-New-World-dis-Order"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "A Conversation with US Department of Transportation Secretary Elaine Chao",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Conversation-US-Department-Transportation-Secretary-Elaine-Chao"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Common Sense in Uncommon Times",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/common-sense-uncommon-times"
+                },
+
+                {
+                    "time": "2:30 PM ET",
+                    "title": "Real Estate: In the Eye of the Storm",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Real-Estate-In-the-Eye-of-the-Storm"
+                },
+                {
+                    "time": "2:30 PM ET",
+                    "title": "Social Isolation: Confronting the Silent Pandemic",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/social-isolation"
+                },
+                {
+                    "time": "3:45 PM ET",
+                    "title": "M&A: Dealing with Uncertainty",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/M-A-Dealing-with-Uncertainty"
+                },
+                {
+                    "time": "3:45 PM ET",
+                    "title": "Resilient Infrastructure: Adapting to Turbulent Times",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Resilient-Infrastructure-Adapting-to-Turbulent-Times"
+                },
+
+                {
+                    "time": "5:00 PM ET",
+                    "title": "A Conversation with US Department of Health and Human Services Secretary Alex Azar",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-us-department-health-human-services-secretary-alex-azar"
+                }
+            ]
+        },
+        {
+            "day_anchor": "day_seven",
+            "date_string": "Friday, December 25, 2020",
+            "data": [
+                {
+                    "time": "9:00 AM ET",
+                    "title": "Part 1: A Conversation with Brazil's Minister of Economy Paulo Guedes | Part 2: Beyond the Headlines: The New United States-Brazil Opportunity",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Beyond-Headlines-New-United-States-Brazil-Opportunity"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "Part 1: A Conversation with Steve Case | Part 2: New Entrepreneurs for a New Economy",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Conversation-Steve-Case-Entrepreneurs-New-Economy"
+                },
+
+                {
+                    "time": "12:00 PM ET",
+                    "title": "A Season of Playoffs: Redefining Sports in Challenging Times",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Redefining-Sports-Challenging-Times"
+                },
+                {
+                    "time": "12:00 PM ET",
+                    "title": "Giving Smarter in the Age of COVID-19",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/giving-smarter-age-covid-19"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Transforming K-12 Education in the Time of COVID-19 | Part 1: A Conversation with US Department of Education Secretary Betsy DeVos | Part 2: A Conversation with Emerson Collective's Arne Duncan",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/transforming-k-12-education-time-covid-19"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Stepping Off the Sidelines: Unlocking Philanthropic Capital for Social Change",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Unlocking-Philanthropic-Capital-Social-Change"
+                },
+                {
+                    "time": "2:30 PM ET",
+                    "title": "Africa: Economic Recovery and Transformation",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/videos/africa-economic-recovery-and-transformation"
+                },
+                {
+                    "time": "2:30 PM ET",
+                    "title": "Risks and Rewards: Accelerating Climate Change Solutions",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/videos/risks-and-rewards-accelerating-climate-change-solutions"
+                },
+                {
+                    "time": "3:30 PM ET",
+                    "title": "The Future of Market Structure",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/videos/future-market-structure"
+                },
+                {
+                    "time": "3:45 PM ET",
+                    "title": "A Conversation with US Ambassador to the United Nations Kelly Craft",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/us-ambassador-united-nations-kelly-craft"
+                },
+                {
+                    "time": "4:30 PM ET",
+                    "title": "Reimagining the American Dream",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/reimagining-american-dream"
+                },
+                {
+                    "time": "4:30 PM ET",
+                    "title": "Fixing Housing in America",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/fixing-housing-america"
+                }
+            ]
+        },
+        {
+            "day_anchor": "day_eight",
+            "date_string": "Monday, December 21, 2020",
+            "data": [
+                {
+                    "time": "9:00 AM ET",
+                    "title": "The Credit Recovery: Uneven, Unequal, Uncertain?",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/credit-recovery-uneven-unequal-uncertain"
+                },
+                {
+                    "time": "9:00 AM ET",
+                    "title": "The Impact Revolution: From Sustainable Development Goals to Solutions",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/impact-revolution-sustainable-development-goals-solutions"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "The Transformation of US Equity Markets",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/transformation-us-equity-markets"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "The Future of Capitalism",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/future-capitalism-0"
+                },
+                {
+                    "time": "11:30 AM ET",
+                    "title": "Evening the Odds: A Conversation with Pharrell Williams",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-pharrell-williams"
+                },
+
+                {
+                    "time": "11:30 AM ET",
+                    "title": "Economic Cooperation and Prosperity in the Middle East | A Conversation with Adam Boehler, CEO, US International Development Finance Corporation",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/expanded-economic-cooperation-middle-east"
+                },
+
+                {
+                    "time": "12:15 PM ET",
+                    "title": "How Do We Afford Our Lives?",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/how-do-we-afford-our-lives"
+                },
+                {
+                    "time": "12:15 PM ET",
+                    "title": "The Next Frontier in Payments and Financial Inclusion",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/next-frontier-payments-and-financial-inclusion"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Part 1: A Conversation with US Department of Labor Secretary Eugene Scalia | Part 2: The Future of Work is Here",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/future-work-here"
+                },
+                {
+                    "time": "1:30 PM ET",
+                    "title": "Technology and the Opening of Trade",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/technology-and-opening-trade"
+                },
+
+                {
+                    "time": "2:45 PM ET",
+                    "title": "A Conversation with Marc Benioff and Hiromichi Mizuno",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/marc-benioff-hiromichi-mizuno"
+                },
+                {
+                    "time": "2:45 PM ET",
+                    "title": "Part 1: A Conversation with FDA Commissioner Stephen Hahn | Part 2: Health Innovation: Improving Patient Access and Information",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/fda-stephen-hahn-health-innovation"
+                },
+                {
+                    "time": "4:00 PM ET",
+                    "title": "Closing Plenary | The Case for Optimism",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/case-optimism"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "day_anchor": "day_seven",
-      "date_string": "Friday, December 25, 2020",
-      "data": [
-        {
-          "time": "9:00 AM ET",
-          "title": "Part 1: A Conversation with Brazil's Minister of Economy Paulo Guedes | Part 2: Beyond the Headlines: The New United States-Brazil Opportunity",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Beyond-Headlines-New-United-States-Brazil-Opportunity"
-        },
-        {
-          "time": "10:15 AM ET",
-          "title": "Part 1: A Conversation with Steve Case | Part 2: New Entrepreneurs for a New Economy",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Conversation-Steve-Case-Entrepreneurs-New-Economy"
-        },
-
-        {
-          "time": "12:00 PM ET",
-          "title": "A Season of Playoffs: Redefining Sports in Challenging Times",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Redefining-Sports-Challenging-Times"
-        },
-        {
-          "time": "12:00 PM ET",
-          "title": "Giving Smarter in the Age of COVID-19",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/giving-smarter-age-covid-19"
-        },
-        {
-          "time": "1:15 PM ET",
-          "title": "Transforming K-12 Education in the Time of COVID-19 | Part 1: A Conversation with US Department of Education Secretary Betsy DeVos | Part 2: A Conversation with Emerson Collective's Arne Duncan",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/transforming-k-12-education-time-covid-19"
-        },
-        {
-          "time": "1:15 PM ET",
-          "title": "Stepping Off the Sidelines: Unlocking Philanthropic Capital for Social Change",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/Unlocking-Philanthropic-Capital-Social-Change"
-        },
-        {
-          "time": "2:30 PM ET",
-          "title": "Africa: Economic Recovery and Transformation",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/videos/africa-economic-recovery-and-transformation"
-        },
-        {
-          "time": "2:30 PM ET",
-          "title": "Risks and Rewards: Accelerating Climate Change Solutions",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/videos/risks-and-rewards-accelerating-climate-change-solutions"
-        },
-        {
-          "time": "3:30 PM ET",
-          "title": "The Future of Market Structure",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/videos/future-market-structure"
-        },
-        {
-          "time": "3:45 PM ET",
-          "title": "A Conversation with US Ambassador to the United Nations Kelly Craft",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/us-ambassador-united-nations-kelly-craft"
-        },
-        {
-          "time": "4:30 PM ET",
-          "title": "Reimagining the American Dream",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/reimagining-american-dream"
-        },
-        {
-          "time": "4:30 PM ET",
-          "title": "Fixing Housing in America",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/fixing-housing-america"
-        }
-      ]
-    },
-    {
-      "day_anchor": "day_eight",
-      "date_string": "Monday, December 21, 2020",
-      "data": [
-        {
-          "time": "9:00 AM ET",
-          "title": "The Credit Recovery: Uneven, Unequal, Uncertain?",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/credit-recovery-uneven-unequal-uncertain"
-        },
-        {
-          "time": "9:00 AM ET",
-          "title": "The Impact Revolution: From Sustainable Development Goals to Solutions",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/impact-revolution-sustainable-development-goals-solutions"
-        },
-        {
-          "time": "10:15 AM ET",
-          "title": "The Transformation of US Equity Markets",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/transformation-us-equity-markets"
-        },
-        {
-          "time": "10:15 AM ET",
-          "title": "The Future of Capitalism",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/future-capitalism-0"
-        },
-        {
-          "time": "11:30 AM ET",
-          "title": "Evening the Odds: A Conversation with Pharrell Williams",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-pharrell-williams"
-        },
-
-        {
-          "time": "11:30 AM ET",
-          "title": "Economic Cooperation and Prosperity in the Middle East | A Conversation with Adam Boehler, CEO, US International Development Finance Corporation",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/expanded-economic-cooperation-middle-east"
-        },
-
-        {
-          "time": "12:15 PM ET",
-          "title": "How Do We Afford Our Lives?",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/how-do-we-afford-our-lives"
-        },
-        {
-          "time": "12:15 PM ET",
-          "title": "The Next Frontier in Payments and Financial Inclusion",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/next-frontier-payments-and-financial-inclusion"
-        },
-        {
-          "time": "1:15 PM ET",
-          "title": "Part 1: A Conversation with US Department of Labor Secretary Eugene Scalia | Part 2: The Future of Work is Here",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/future-work-here"
-        },
-        {
-          "time": "1:30 PM ET",
-          "title": "Technology and the Opening of Trade",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/technology-and-opening-trade"
-        },
-
-        {
-          "time": "2:45 PM ET",
-          "title": "A Conversation with Marc Benioff and Hiromichi Mizuno",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/marc-benioff-hiromichi-mizuno"
-        },
-        {
-          "time": "2:45 PM ET",
-          "title": "Part 1: A Conversation with FDA Commissioner Stephen Hahn | Part 2: Health Innovation: Improving Patient Access and Information",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/fda-stephen-hahn-health-innovation"
-        },
-        {
-          "time": "4:00 PM ET",
-          "title": "Closing Plenary | The Case for Optimism",
-          "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/case-optimism"
-        }
-      ]
-    }
-  ]
+    ]
 }
