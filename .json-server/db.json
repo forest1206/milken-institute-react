@@ -156,7 +156,7 @@
     "session_days": [
         {
             "day_anchor": "day_one",
-            "date_string": "Monday, December 27, 2020",
+            "date_string": "Sunday, December 26, 2020",
             "data": [
                 {
                     "time": "10:00 AM ET",
@@ -214,7 +214,7 @@
         },
         {
             "day_anchor": "day_two",
-            "date_string": "Tuesday, December 31, 2020",
+            "date_string": "Tuesday, December 29, 2020",
             "data": [
                 {
                     "time": "8:30 AM ET",
@@ -295,7 +295,7 @@
         },
         {
             "day_anchor": "day_three",
-            "date_string": "Thursday, December 24, 2020",
+            "date_string": "Wednesday, December 30, 2020",
             "data": [
                 {
                     "time": "9:00 AM ET",
@@ -361,7 +361,7 @@
         },
         {
             "day_anchor": "day_four",
-            "date_string": "Thursday, December 24, 2020",
+            "date_string": "Thursday, December 31, 2020",
             "data": [
                 {
                     "time": "9:00 AM ET",
@@ -437,7 +437,7 @@
         },
         {
             "day_anchor": "day_five",
-            "date_string": "Wednesday, December 23, 2020",
+            "date_string": "Friday, January 01, 2021",
             "data": [
                 {
                     "time": "9:00 AM ET",
@@ -498,7 +498,7 @@
         },
         {
             "day_anchor": "day_six",
-            "date_string": "Friday, December 25, 2020",
+            "date_string": "Saturday, January 02, 2021",
             "data": [
                 {
                     "time": "10:10 AM ET",
@@ -561,7 +561,7 @@
         },
         {
             "day_anchor": "day_seven",
-            "date_string": "Friday, December 25, 2020",
+            "date_string": "Monday, January 04, 2021",
             "data": [
                 {
                     "time": "9:00 AM ET",
