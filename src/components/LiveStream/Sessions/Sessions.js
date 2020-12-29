@@ -20,10 +20,29 @@ export default function Sessions({ sessionDays }) {
         return hoursDiff > -24 && hoursDiff < 0;
     };
 
+    const isPast = (sessionDay) => {
+        const hoursDiff = moment
+            .duration(moment(sessionDay.date_string).diff(moment.now()))
+            .asHours();
+
+        return hoursDiff < -24;
+    };
+
+    const isUpcoming = (sessionDay) => {
+        const hoursDiff = moment
+            .duration(moment(sessionDay.date_string).diff(moment.now()))
+            .asHours();
+
+        return hoursDiff > 0;
+    };
+
     const getOrderedSessionDays = () => {
         const currentDays = sessionDays.filter(isCurrent).sort(compareDates);
-        const otherDays = sessionDays.filter((item) => !isCurrent(item)).sort(compareDates);
-        return [...currentDays, ...otherDays];
+        const pastDays = sessionDays.filter(isPast).sort(compareDates);
+        const upcomingDays = sessionDays.filter(isUpcoming).sort(compareDates);
+        console.log('pastDays', pastDays);
+        console.log('upcomingDays', upcomingDays);
+        return [...currentDays, ...upcomingDays, ...pastDays];
     };
 
     return (
