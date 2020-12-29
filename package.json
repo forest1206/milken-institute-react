@@ -10,6 +10,7 @@
         "bootstrap": "^4.5.3",
         "classnames": "^2.2.6",
         "dotenv": "^8.2.0",
+        "json-server": "^0.16.3",
         "lodash": "^4.17.20",
         "moment": "^2.29.1",
         "react": "^17.0.1",
