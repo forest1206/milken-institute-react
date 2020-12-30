@@ -43,7 +43,7 @@ function SearchContent() {
     const getFilteredContents = async (params) => {
         let res = await contentAPI.fetchContents(params);
         if (res.status === 200) {
-            console.log('success', res);
+            // console.log('success', res);
             setContents(res.data);
         } else {
             console.log('error', res);

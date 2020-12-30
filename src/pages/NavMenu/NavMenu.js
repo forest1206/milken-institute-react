@@ -1,10 +1,10 @@
 import React from 'react';
-import App from '../../components/NavMenu/App';
+import NavMenu from '../../components/NavMenu/NavMenu';
 
-export default function NavMenu() {
+export default function NavMenuWrapper() {
     return (
         <div id="navmenu-wrapper">
-            <App />
+            <NavMenu />
         </div>
     );
 }

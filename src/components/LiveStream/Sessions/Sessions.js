@@ -40,8 +40,8 @@ export default function Sessions({ sessionDays }) {
         const currentDays = sessionDays.filter(isCurrent).sort(compareDates);
         const pastDays = sessionDays.filter(isPast).sort(compareDates);
         const upcomingDays = sessionDays.filter(isUpcoming).sort(compareDates);
-        console.log('pastDays', pastDays);
-        console.log('upcomingDays', upcomingDays);
+        // console.log('pastDays', pastDays);
+        // console.log('upcomingDays', upcomingDays);
         return [...currentDays, ...upcomingDays, ...pastDays];
     };
 

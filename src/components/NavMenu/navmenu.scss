@@ -1,0 +1,31 @@
+#menu-tab-container {
+    background-color: #e2e7ea;
+}
+.tab-content {
+    margin-top: 10px;
+}
+.menu-title {
+    padding-left: 40px;
+    color: #bbb;
+}
+.menu-content h6 {
+    margin-bottom: 0px;
+}
+.menu-content a {
+    color: black;
+}
+.menu-content a:hover {
+    color: black !important;
+    text-decoration: none !important;
+}
+ul {
+    list-style-type: none;
+}
+.nav-link.active {
+    color: #ff6237 !important;
+    border-bottom: 3px solid #ff6237 !important;
+    background-color: #e2e7ea !important;
+}
+.nav-tabs a {
+    color: black !important;
+}

@@ -700,5 +700,294 @@
                 }
             ]
         }
-    ]
+    ],
+    "menu": {
+        "id": "main",
+        "data": {
+            "#cache": {
+                "contexts": ["user.permissions"],
+                "tags": ["config:system.menu.main"],
+                "max-age": -1
+            },
+            "#sorted": true,
+            "#theme": "menu__main",
+            "#menu_name": "main",
+            "#items": {
+                "menu_link_content:36e267bc-5aea-407b-adb0-9a84f15946ae": {
+                    "is_expanded": true,
+                    "is_collapsed": false,
+                    "in_active_trail": false,
+                    "attributes": "",
+                    "title": "About",
+                    "url": "/",
+                    "below": {
+                        "menu_link_content:2b2bfe96-e452-43e2-b9a1-2a1801aad3b7": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "About Us",
+                            "url": "/about",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:b5474113-4c89-4c5d-a04b-8ce198688cab": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Leadership",
+                            "url": "/leadership",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:4ab3483f-b35d-4606-88c0-0e8eb278e69d": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Support Milken Institute",
+                            "url": "/content/support-milken-institute",
+                            "below": [],
+                            "original_link": {}
+                        }
+                    },
+                    "original_link": {}
+                },
+                "menu_link_content:78677c72-a641-4524-aced-905fa0af0b87": {
+                    "is_expanded": true,
+                    "is_collapsed": false,
+                    "in_active_trail": false,
+                    "attributes": "",
+                    "title": "Centers and Practice Areas",
+                    "url": "/",
+                    "below": {
+                        "menu_link_content:b7b83b7a-0bbb-42bc-a58b-b9776f19620c": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Asia Center",
+                            "url": "/centers/asia-center",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:f0613b36-8011-4485-b57a-e8285b76561e": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Center for Financial Markets",
+                            "url": "/centers/center-for-financial-markets",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:75a72a09-d075-454d-9e87-ebc1b5e551a9": {
+                            "is_expanded": false,
+                            "is_collapsed": true,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Center for the Future of Aging",
+                            "url": "/centers/center-for-the-future-of-aging",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:c097efba-14b6-4d72-a5c3-662dd85a01e9": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Center for Public Health",
+                            "url": "/centers/center-for-public-health",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:90d4f86c-edaf-445f-94f2-9cb6470bc5b6": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Center for Regional Economics and California Center",
+                            "url": "/centers/center-for-regional-economics",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:efb2eb42-6af4-4258-831f-6e449913727f": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Center for Strategic Philanthropy",
+                            "url": "/centers/center-for-strategic-philanthropy",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:901129af-e9bd-4c1e-8ebb-4308625b0e3c": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "FasterCures",
+                            "url": "/centers/fastercures",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:0e744eca-cdc3-4fda-b023-19effc87f34c": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Financial Innovations Labs",
+                            "url": "/financial-innovations-lab",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:bc53c5cb-9c55-4629-9c00-eb4f859fc77c": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Global Market Development",
+                            "url": "/programs/global-market-development",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:87d84eae-aec0-48dc-b1a6-4e69409e6deb": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Research Department",
+                            "url": "/research-department",
+                            "below": [],
+                            "original_link": {}
+                        }
+                    },
+                    "original_link": {}
+                },
+                "menu_link_content:c70d5aca-068e-4cc4-aa29-365cc2e6dc63": {
+                    "is_expanded": true,
+                    "is_collapsed": false,
+                    "in_active_trail": false,
+                    "attributes": "",
+                    "title": "Explore",
+                    "url": "/",
+                    "below": {
+                        "menu_link_content:a3d608e1-2874-4a73-9300-3d06e18a2276": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Research and Analysis",
+                            "url": "/explore/reports",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:93350c34-9d8b-41e1-b20b-6f03491a8b5b": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Events",
+                            "url": "/explore/events",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:809e7c5e-c748-4050-9292-eabaee860953": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Programs",
+                            "url": "/explore/programs",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:ee9d3028-2b8d-4ea7-a965-42a682963f99": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "Videos",
+                            "url": "/explore/videos",
+                            "below": [],
+                            "original_link": {}
+                        }
+                    },
+                    "original_link": {}
+                },
+                "menu_link_content:cd0d33de-7bac-4893-ba6f-0da4fb6b0024": {
+                    "is_expanded": true,
+                    "is_collapsed": false,
+                    "in_active_trail": false,
+                    "attributes": "",
+                    "title": "Others",
+                    "url": "/",
+                    "below": {
+                        "menu_link_content:3adfd30a-754b-4973-a313-b7e1e8e333e9": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "NEWSROOM",
+                            "url": "/newsroom",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:3794cd66-4410-46be-a969-12554dee6392": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "EXPERTS",
+                            "url": "https://www.milkeninstitute.org/experts",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:737b7164-c190-451b-837a-089d497c902a": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "CAREERS",
+                            "url": "/careers",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:2a5b52f0-09e3-4a2f-8275-242908d03a61": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "POWER OF IDEAS",
+                            "url": "/power-of-ideas",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:7b967ce3-f4aa-48a2-ba89-6c14029a6000": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "MILKEN INSTITUTE REVIEW",
+                            "url": "http://milkenreview.org",
+                            "below": [],
+                            "original_link": {}
+                        },
+                        "menu_link_content:89914f72-9c69-4551-b963-2f50ce3cd5d4": {
+                            "is_expanded": false,
+                            "is_collapsed": false,
+                            "in_active_trail": false,
+                            "attributes": "",
+                            "title": "CONTACT",
+                            "url": "/contact",
+                            "below": [],
+                            "original_link": {}
+                        }
+                    },
+                    "original_link": {}
+                }
+            }
+        }
+    }
 }

@@ -18,7 +18,7 @@ module.exports = {
         node: true
     },
     extends: [
-        'eslint:recommended',
+        // 'eslint:recommended',
         'plugin:react/recommended',
         // 'plugin:jsx-a11y/recommended',
         'plugin:prettier/recommended'
