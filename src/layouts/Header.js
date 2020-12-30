@@ -20,6 +20,9 @@ export default function Header() {
                 <Nav.Item as="li">
                     <Nav.Link eventKey="livestream">Livestream</Nav.Link>
                 </Nav.Item>
+                <Nav.Item as="li">
+                    <Nav.Link eventKey="nav">NavMenu</Nav.Link>
+                </Nav.Item>
             </Nav>
         </div>
     );
