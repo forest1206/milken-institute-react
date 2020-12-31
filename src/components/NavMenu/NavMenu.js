@@ -58,7 +58,6 @@ function NavMenu() {
                     {menuObj && (
                         <Tabs id="menu-tab" defaultActiveKey={getDefautKey(menuObj)}>
                             {Object.keys(menuObj).map((item, i) => {
-                                console.log('item___', item, i);
                                 return (
                                     <Tab
                                         key={i}
