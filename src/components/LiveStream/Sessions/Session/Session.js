@@ -4,7 +4,7 @@ import { Element } from 'react-scroll';
 import SessionTime from '../SessionTime/SessionTime';
 import moment from 'moment';
 
-export default function Session({ sessionDay, idx }) {
+export default function Session({ sessionDay }) {
     const renderSessionBadge = () => {
         const sessionDate = moment(sessionDay.date_string);
         const hoursDiff = moment.duration(sessionDate.diff(moment.now())).asHours();
@@ -23,7 +23,7 @@ export default function Session({ sessionDay, idx }) {
             <div className="container">
                 <div className="schedule">
                     <h1>{renderSessionBadge()}</h1>
-                    <h2>Day {idx}</h2>
+                    <h2>Day {sessionDay.day}</h2>
                     <h3>{sessionDay.date_string}</h3>
                     <div className="schedule_rows">
                         <ul>

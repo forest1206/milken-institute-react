@@ -157,6 +157,7 @@
         {
             "day_anchor": "day_one",
             "date_string": "Sunday, December 26, 2020",
+            "day": 6,
             "data": [
                 {
                     "time": "10:00 AM ET",
@@ -215,6 +216,7 @@
         {
             "day_anchor": "day_two",
             "date_string": "Tuesday, December 29, 2020",
+            "day": 2,
             "data": [
                 {
                     "time": "8:30 AM ET",
@@ -296,6 +298,7 @@
         {
             "day_anchor": "day_three",
             "date_string": "Wednesday, December 30, 2020",
+            "day": 3,
             "data": [
                 {
                     "time": "9:00 AM ET",
@@ -362,6 +365,7 @@
         {
             "day_anchor": "day_four",
             "date_string": "Thursday, December 31, 2020",
+            "day": 4,
             "data": [
                 {
                     "time": "9:00 AM ET",
@@ -438,6 +442,7 @@
         {
             "day_anchor": "day_five",
             "date_string": "Friday, January 01, 2021",
+            "day": 5,
             "data": [
                 {
                     "time": "9:00 AM ET",
@@ -499,6 +504,7 @@
         {
             "day_anchor": "day_six",
             "date_string": "Saturday, January 02, 2021",
+            "day": 6,
             "data": [
                 {
                     "time": "10:10 AM ET",
@@ -562,6 +568,7 @@
         {
             "day_anchor": "day_seven",
             "date_string": "Monday, January 04, 2021",
+            "day": 1,
             "data": [
                 {
                     "time": "9:00 AM ET",
@@ -628,7 +635,158 @@
         },
         {
             "day_anchor": "day_eight",
+            "day": 2,
             "date_string": "Tuesday, January 05, 2021",
+            "data": [
+                {
+                    "time": "9:00 AM ET",
+                    "title": "The Credit Recovery: Uneven, Unequal, Uncertain?",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/credit-recovery-uneven-unequal-uncertain"
+                },
+                {
+                    "time": "9:00 AM ET",
+                    "title": "The Impact Revolution: From Sustainable Development Goals to Solutions",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/impact-revolution-sustainable-development-goals-solutions"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "The Transformation of US Equity Markets",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/transformation-us-equity-markets"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "The Future of Capitalism",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/future-capitalism-0"
+                },
+                {
+                    "time": "11:30 AM ET",
+                    "title": "Evening the Odds: A Conversation with Pharrell Williams",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-pharrell-williams"
+                },
+
+                {
+                    "time": "11:30 AM ET",
+                    "title": "Economic Cooperation and Prosperity in the Middle East | A Conversation with Adam Boehler, CEO, US International Development Finance Corporation",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/expanded-economic-cooperation-middle-east"
+                },
+
+                {
+                    "time": "12:15 PM ET",
+                    "title": "How Do We Afford Our Lives?",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/how-do-we-afford-our-lives"
+                },
+                {
+                    "time": "12:15 PM ET",
+                    "title": "The Next Frontier in Payments and Financial Inclusion",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/next-frontier-payments-and-financial-inclusion"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Part 1: A Conversation with US Department of Labor Secretary Eugene Scalia | Part 2: The Future of Work is Here",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/future-work-here"
+                },
+                {
+                    "time": "1:30 PM ET",
+                    "title": "Technology and the Opening of Trade",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/technology-and-opening-trade"
+                },
+
+                {
+                    "time": "2:45 PM ET",
+                    "title": "A Conversation with Marc Benioff and Hiromichi Mizuno",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/marc-benioff-hiromichi-mizuno"
+                },
+                {
+                    "time": "2:45 PM ET",
+                    "title": "Part 1: A Conversation with FDA Commissioner Stephen Hahn | Part 2: Health Innovation: Improving Patient Access and Information",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/fda-stephen-hahn-health-innovation"
+                },
+                {
+                    "time": "4:00 PM ET",
+                    "title": "Closing Plenary | The Case for Optimism",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/case-optimism"
+                }
+            ]
+        },
+        {
+            "day_anchor": "day_nine",
+            "day": 3,
+            "date_string": "Wednesday, January 06, 2021",
+            "data": [
+                {
+                    "time": "9:00 AM ET",
+                    "title": "The Credit Recovery: Uneven, Unequal, Uncertain?",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/credit-recovery-uneven-unequal-uncertain"
+                },
+                {
+                    "time": "9:00 AM ET",
+                    "title": "The Impact Revolution: From Sustainable Development Goals to Solutions",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/impact-revolution-sustainable-development-goals-solutions"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "The Transformation of US Equity Markets",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/transformation-us-equity-markets"
+                },
+                {
+                    "time": "10:15 AM ET",
+                    "title": "The Future of Capitalism",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/future-capitalism-0"
+                },
+                {
+                    "time": "11:30 AM ET",
+                    "title": "Evening the Odds: A Conversation with Pharrell Williams",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/conversation-pharrell-williams"
+                },
+
+                {
+                    "time": "11:30 AM ET",
+                    "title": "Economic Cooperation and Prosperity in the Middle East | A Conversation with Adam Boehler, CEO, US International Development Finance Corporation",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/expanded-economic-cooperation-middle-east"
+                },
+
+                {
+                    "time": "12:15 PM ET",
+                    "title": "How Do We Afford Our Lives?",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/how-do-we-afford-our-lives"
+                },
+                {
+                    "time": "12:15 PM ET",
+                    "title": "The Next Frontier in Payments and Financial Inclusion",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/next-frontier-payments-and-financial-inclusion"
+                },
+                {
+                    "time": "1:15 PM ET",
+                    "title": "Part 1: A Conversation with US Department of Labor Secretary Eugene Scalia | Part 2: The Future of Work is Here",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/future-work-here"
+                },
+                {
+                    "time": "1:30 PM ET",
+                    "title": "Technology and the Opening of Trade",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/technology-and-opening-trade"
+                },
+
+                {
+                    "time": "2:45 PM ET",
+                    "title": "A Conversation with Marc Benioff and Hiromichi Mizuno",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/marc-benioff-hiromichi-mizuno"
+                },
+                {
+                    "time": "2:45 PM ET",
+                    "title": "Part 1: A Conversation with FDA Commissioner Stephen Hahn | Part 2: Health Innovation: Improving Patient Access and Information",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/fda-stephen-hahn-health-innovation"
+                },
+                {
+                    "time": "4:00 PM ET",
+                    "title": "Closing Plenary | The Case for Optimism",
+                    "url": "https://milkeninstitute.org/events/global-conference-2020/livestream/case-optimism"
+                }
+            ]
+        },
+        {
+            "day_anchor": "day_ten",
+            "day": 4,
+            "date_string": "Thursday, January 07, 2021",
             "data": [
                 {
                     "time": "9:00 AM ET",

@@ -48,7 +48,7 @@ export default function Sessions({ sessionDays }) {
     return (
         <>
             {getOrderedSessionDays().map((item, index) => (
-                <Session key={index} idx={index + 1} sessionDay={item} />
+                <Session key={index} sessionDay={item} />
             ))}
         </>
     );
