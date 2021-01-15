@@ -1,8 +1,8 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 import Session from './Session/Session';
-import './session.scss';
 import moment from 'moment';
+import './session.scss';
 
 export default function Sessions({ sessionDays }) {
     const compareDates = (a, b) => {
@@ -40,8 +40,6 @@ export default function Sessions({ sessionDays }) {
         const currentDays = sessionDays.filter(isCurrent).sort(compareDates);
         const pastDays = sessionDays.filter(isPast).sort(compareDates);
         const upcomingDays = sessionDays.filter(isUpcoming).sort(compareDates);
-        // console.log('pastDays', pastDays);
-        // console.log('upcomingDays', upcomingDays);
         return [...currentDays, ...upcomingDays, ...pastDays];
     };
 

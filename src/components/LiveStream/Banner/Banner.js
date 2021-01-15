@@ -8,16 +8,6 @@ import './banner.scss';
 export default function Banner({ title, sessionDays, videoUrl }) {
     const { theme } = useContext(ThemeContext);
 
-    useEffect(() => {
-        setCSSVariables(theme);
-    });
-
-    const setCSSVariables = (theme) => {
-        for (const value in theme) {
-            document.documentElement.style.setProperty(`--${value}`, theme[value]);
-        }
-    };
-
     if (!theme) {
         return null;
     }
