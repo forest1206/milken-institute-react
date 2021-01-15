@@ -1,7 +1,7 @@
 .section {
     width: 100%;
     margin: 0;
-    background-color: var(--backgroundDarkColor);
+    background-color: var(--background-dark-color);
     padding: 2.8em 0;
     color: #fff;
     a {
@@ -9,12 +9,12 @@
     }
 
     &:nth-child(2n + 1) {
-        background-color: var(--backgroundLightColor);
+        background-color: var(--background-light-color);
     }
 
     .title-sup {
         margin: 0;
-        color: var(--hightlightColor);
+        color: var(--hightlight-color);
     }
 
     .title {
@@ -53,7 +53,7 @@
                     h2 {
                         font-size: 2.8em;
                         margin: 0;
-                        color: var(--hightlightColor);
+                        color: var(--hightlight-color);
                     }
                     h3 {
                         font-size: 1.1em;

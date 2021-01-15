@@ -1,12 +1,12 @@
-@import "./global/colors";
-@import "./global/fonts";
+@import './global/colors';
+@import './global/fonts';
 
-@import "./pages/center.scss";
-@import "./pages/livestream.scss";
-@import "./pages/search_content.scss";
+@import './pages/center.scss';
+@import './pages/livestream.scss';
+@import './pages/search_content.scss';
 
 :root {
-  --backgroundLightColor: #0051a4;
-  --backgroundDarkColor: #003469;
-  --hightlightColor: #ff6633;
+    --background-light-color: #0051a4;
+    --background-dark-color: #003469;
+    --hightlight-color: #ff6633;
 }

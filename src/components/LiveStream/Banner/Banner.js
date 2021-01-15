@@ -1,27 +1,10 @@
 import PropTypes from 'prop-types';
 import React, { useContext, useEffect } from 'react';
-import { ThemeContext } from './../../../ThemeProvider';
 import SessionNav from './SessionNav/SessionNav';
 import CurrentStream from './CurrentStream/CurrentStream';
 import './banner.scss';
 
 export default function Banner({ title, sessionDays, videoUrl }) {
-    const { theme } = useContext(ThemeContext);
-
-    useEffect(() => {
-        setCSSVariables(theme);
-    });
-
-    const setCSSVariables = (theme) => {
-        for (const value in theme) {
-            document.documentElement.style.setProperty(`--${value}`, theme[value]);
-        }
-    };
-
-    if (!theme) {
-        return null;
-    }
-
     return (
         <>
             <div className="section">
