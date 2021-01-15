@@ -1,14 +1,11 @@
 import { Button, Tab, Collapse, Tabs } from 'react-bootstrap';
 import React, { useState, useEffect } from 'react';
 import { navmenuAPI } from '../../api';
-import { useHistory } from 'react-router-dom';
 import './navmenu.scss';
 
 function NavMenu() {
     const [open, setOpen] = useState(false);
     const [menuObj, setMenuObj] = useState(null);
-
-    const history = useHistory();
 
     useEffect(() => {
         getNavmenuData();
@@ -27,7 +24,7 @@ function NavMenu() {
     const renderSubmenu = (subMenuObj) => {
         return (
             <ul>
-                {Object.keys(subMenuObj).map((key, i) => (
+                {Object.keys(subMenuObj).map((key) => (
                     <li key={key}>
                         <h6>
                             <a href={`${subMenuObj[key].url}`}>{subMenuObj[key].title}</a>

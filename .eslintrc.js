@@ -18,13 +18,13 @@ module.exports = {
         node: true
     },
     extends: [
-        // 'eslint:recommended',
+        'eslint:recommended',
         'plugin:react/recommended',
         // 'plugin:jsx-a11y/recommended',
         'plugin:prettier/recommended'
     ],
     rules: {
-        'prettier/prettier': ['error', {}, { usePrettierrc: true }],
+        'prettier/prettier': ['error', { endOfLine: 'auto' }, { usePrettierrc: true }],
         'react/no-unescaped-entities': 'off',
         'react/prop-types': 'off',
         'react/no-unused-vars': 'off'
